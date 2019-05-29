@@ -1,0 +1,131 @@
+BOX 1
+
+Indicator_1_1
+Title: GDP per capita growth (2011-2017)
+Definition: Gross domestic product (expenditure approach), US Dollar 2010, per head, constant prices, constant PPPs
+Evolution since 2000-2007: Evo_1_1 (percentage points)
+
+Indicator_1_2
+Title: Real median income growth (2011-latest)
+Definition: Real median income in 2010 PPPs, current income definition
+Evolution since 2007-2010: Evo_1_2 (percentage points)
+
+Indicator_1_3
+Title: S80/20 income share (2016 or latest)
+Definition: 
+Evolution since 2011: Evo_1_3
+
+Indicator_1_4
+Title: Wealth inequality (2016 or latest)
+Definition: Bottom 40% wealth share, % of total household net wealth 
+Evolution since 2011: Evo_1_4 (percentage points)
+
+Indicator_1_5
+Title: Life expectancy at birth (latest)
+Definition: 
+Evolution since 2011: Evo_1_5 (years)
+
+Indicator_1_6
+Title: Mortality from exposure to outdoor air pollution (latest)
+Definition: Rate per 1 million inhabitants
+Evolution since 2011: Evo_1_6
+
+Indicator_1_7
+Title: Relative poverty rate (latest)
+Definition: Poverty rate after taxes and transfers (poverty line at 50% of median disposible income)
+Evolution since 2011: Evo_1_7 (2016 or latest)
+
+BOX 2
+
+Indicator_2_1
+Title: Labour productivity growth (2011-2017)
+Definition:  GDP per hour worked in USD (constant prices 2010 and PPPs), 2010 = 100
+Evolution since 2001-2007: Evo_2_1 (percentage points)
+
+Indicator_2_2
+Title: Employment-to-population ratio (2016 or latest)
+Definition:  
+Evolution since 2011: Evo_2_2 (percentage points)
+
+Indicator_2_3
+Title: Earnings dispersion: Interdecile ratio P90/P10 (2017 or latest)
+Definition:
+Evolution since 2011: Evo_2_3
+
+Indicator_2_4
+Title: Gender pay gap in % (2017 or latest)
+Definition: Difference between male and female median monthly earnings divided by male median monthly earnings, for full-time employees
+Evolution since 2011: Evo_2_4 (percentage points)
+
+Indicator_2_5
+Title: Involuntary part-time employment (2017 or latest)
+Definition: Share in total employment
+Evolution since 2011: Evo_2_5 (percentage points)
+
+Indicator_2_6
+Title: Business cloud computing access (2016)
+Definition: Digital access as a percentage of all enterprises using icloud computing
+Evolution:
+
+Indicator_2_7
+Title: SMEs loans share, % (2017 or latest)
+Definition: Share of SME loans in total business loans (%)
+Evolution:
+
+BOX 3
+
+Indicator_3_1
+Title: Variation in science performance by students' socio-economic status (2015)
+Definition: Based on PISA index of economic, social and cultural status
+Evolution:
+
+Indicator_3_2
+Title: Intergenerational earnings elasticity, % (late 2000's)
+Definition: Earnings elasticities for father to son
+Evolution:
+
+Indicator_3_3
+Title: Child care enrolment, % ()
+Definition:  Children (0-2 year-olds) participating in formal Early Childhood Education and Care services
+Evolution since 2011: Evo_3_3 (percentage points)
+
+Indicator_3_4
+Title: Child care enrolment, % ()
+Definition:  Children (0-2 year-olds) participating in formal Early Childhood Education and Care services
+Evolution since 2011: Evo_3_3 (percentage points)
+
+Indicator_3_5
+Title: NEET rate, % (2017 or latest)
+Definition:  Proportion of 15-29 year olds not in employment, education or training
+Evolution since 2011: Evo_3_5 (percentage points)
+
+Indicator_3_6
+Title: Share of resilient students, % (2015)
+Definition: A student is classified as resilient if he or she is in the bottom quarter of the PISA index of economic, social and cultural status (ESCS) in the country/economy of assessment and performs in the top quarter of students among all countries/economies, after accounting for socio-economic status
+Evolution:
+
+BOX 4
+
+Indicator_4_1
+Title: Confidence in national government, % (2016)
+Definition: Confidence in national government (2016) and its change since 2007 (%)
+Evolution since 2007: Evo_4_1 (percentage points)
+
+Indicator_4_2
+Title: Voter turnout at national election, % (2018 or latest)
+Definition: Percentage of votes cast among the population registered to vote. National elections refer to parliamentary elections, with the exceptions of Brazil, Finland, France, Korea, Mexico, the Russian Federation and the United States, where Presidential elections are considered. Australia, Belgium, Brazil, Luxembourg and Turkey enforce compulsory voting. In Chile, compulsory voting was dropped in 2012.
+Evolution since 2011: Evo_4_2 (percentage points)
+
+Indicator_4_3
+Title: Share of women parliamentarians, % (2018 or latest)
+Definition: Share of women parliamentarians and legislated gender quotas, Lower or single house of parliament
+Evolution since 2011: Evo_4_3 (percentage points)
+
+
+
+
+
+
+
+
+

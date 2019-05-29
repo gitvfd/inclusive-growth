@@ -1,0 +1,343 @@
+
+<!doctype html>
+<html>
+<meta charset="utf-8">
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="libs/d3.v4.min.js"></script>
+    <script src="js/pearlChart.js"></script>
+</head>
+
+<body id="page">
+
+    <div id="Country_sel">
+        <div id="selCountry">
+            <div class="dropdown_text">Select a country: </div>
+            <select id="country_dropdown"
+                onchange="loopOverIndicators()">
+                <option value="-"> - </option>
+                <option value="Australia" selected="selected">Australia</option>
+                <option value="Austria">Austria</option>
+                <option value="Belgium">Belgium</option>
+                <option value="Canada">Canada</option>
+                <option value="Chile">Chile</option>
+                <option value="Czech Republic">Czech Republic</option>
+                <option value="Denmark">Denmark</option>
+                <option value="Estonia">Estonia</option>
+                <option value="Finland">Finland</option>
+                <option value="France">France</option>
+                <option value="Germany">Germany</option>
+                <option value="Greece">Greece</option>
+                <option value="Hungary">Hungary</option>
+                <option value="Iceland">Icelan</option>
+                <option value="Ireland">Ireland</option>
+                <option value="Israel">Israel</option>
+                <option value="Italy">Italy</option>
+                <option value="Japan">Japan</option>
+                <option value="Korea">Korea</option>
+                <option value="Latvia">Latvia</option>
+                <option value="Luxembourg">Luxembourg</option>
+                <option value="Mexico">Mexico</option>
+                <option value="Netherlands">Netherlands</option>
+                <option value="New Zealand">New Zealand</option>
+                <option value="Norway">Norway</option>
+                <option value="OECD">OECD</option>
+                <option value="Poland">Poland</option>
+                <option value="Portugal">Portugal</option>
+                <option value="Slovak Republic">Slovak Republic</option>
+                <option value="Slovenia">Slovenia</option>
+                <option value="Spain">Spain</option>
+                <option value="Sweden">Sweden</option>
+                <option value="Switzerland">Switzerland</option>
+                <option value="Turkey">Turkey</option>
+                <option value="United Kingdom">United Kingdom</option>
+                <option value="United States">United States</option>
+                <!--</optgroup>-->
+            </select>
+        </div>
+
+        <div id="compCountry">
+            <div class="dropdown_text_comp">Compare to: </div>
+            <select id="country_dropdown_comp"
+                onchange="loopOverIndicators()">
+                <option value="-"> - </option>
+                <option value="Australia">Australia</option>
+                <option value="Austria">Austria</option>
+                <option value="Belgium">Belgium</option>
+                <option value="Canada">Canada</option>
+                <option value="Chile">Chile</option>
+                <option value="Czech Republic">Czech Republic</option>
+                <option value="Denmark">Denmark</option>
+                <option value="Estonia">Estonia</option>
+                <option value="Finland">Finland</option>
+                <option value="France">France</option>
+                <option value="Germany">Germany</option>
+                <option value="Greece">Greece</option>
+                <option value="Hungary">Hungary</option>
+                <option value="Iceland">Icelan</option>
+                <option value="Ireland">Ireland</option>
+                <option value="Israel">Israel</option>
+                <option value="Italy">Italy</option>
+                <option value="Japan">Japan</option>
+                <option value="Korea">Korea</option>
+                <option value="Latvia">Latvia</option>
+                <option value="Luxembourg">Luxembourg</option>
+                <option value="Mexico">Mexico</option>
+                <option value="Netherlands">Netherlands</option>
+                <option value="New Zealand">New Zealand</option>
+                <option value="Norway">Norway</option>
+                <option value="OECD" selected="selected">OECD</option>
+                <option value="Poland">Poland</option>
+                <option value="Portugal">Portugal</option>
+                <option value="Slovak Republic">Slovak Republic</option>
+                <option value="Slovenia">Slovenia</option>
+                <option value="Spain">Spain</option>
+                <option value="Sweden">Sweden</option>
+                <option value="Switzerland">Switzerland</option>
+                <option value="Turkey">Turkey</option>
+                <option value="United Kingdom">United Kingdom</option>
+                <option value="United States">United States</option>
+                <!--</optgroup>-->
+            </select>
+        </div>
+    </div>
+    <div id="section1">
+        <div class="introChart">
+            <div id="title_Indicator_1_1" class="indicTitle">GDP per capita growth<img src="img/info.svg" class="infoImg" id="Indicator_1_1">
+            </div>
+            <div id="chart_Indicator_1_1" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_1_2" class="indicTitle">Real median income growth<img src="img/info.svg" class="infoImg" id="Indicator_1_2">
+            </div>
+            <div id="chart_Indicator_1_2" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_1_3" class="indicTitle">S80/20 income share<img src="img/info.svg" class="infoImg" id="Indicator_1_3">
+            </div>
+            <div id="chart_Indicator_1_3" class="indicChart">
+            </div>
+        </div><div class="introChart">
+            <div id="title_Indicator_1_4" class="indicTitle">Wealth inequality<img src="img/info.svg" class="infoImg" id="Indicator_1_4">
+            </div>
+            <div id="chart_Indicator_1_4" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_1_5" class="indicTitle">Life expectancy at birth<img src="img/info.svg" class="infoImg" id="Indicator_1_5">
+            </div>
+            <div id="chart_Indicator_1_5" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_1_6" class="indicTitle">Mortality from exposure to outdoor air pollution<img src="img/info.svg" class="infoImg" id="Indicator_1_6">
+            </div>
+            <div id="chart_Indicator_1_6" class="indicChart">
+            </div>
+        </div><div class="introChart">
+            <div id="title_Indicator_1_7" class="indicTitle">Relative poverty rate<img src="img/info.svg" class="infoImg" id="Indicator_1_7">
+            </div>
+            <div id="chart_Indicator_1_7" class="indicChart">
+            </div>
+        </div>
+    </div>
+    <div id="section2">
+        <div class="introChart">
+            <div id="title_Indicator_2_1" class="indicTitle">Labour productivity growth<img src="img/info.svg" class="infoImg" id="Indicator_2_1">
+            </div>
+            <div id="chart_Indicator_2_1" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_2_2" class="indicTitle">Employment-to-population ratio<img src="img/info.svg" class="infoImg" id="Indicator_2_2">
+            </div>
+            <div id="chart_Indicator_2_2" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_2_3" class="indicTitle">Earnings dispersion: Interdecile ratio P90/P10<img src="img/info.svg" class="infoImg" id="Indicator_2_3">
+            </div>
+            <div id="chart_Indicator_2_3" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_2_4" class="indicTitle">Gender pay gap in %<img src="img/info.svg" class="infoImg" id="Indicator_2_4">
+            </div>
+            <div id="chart_Indicator_2_4" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_2_5" class="indicTitle">Involuntary part-time employment<img src="img/info.svg" class="infoImg" id="Indicator_2_5">
+            </div>
+            <div id="chart_Indicator_2_5" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_2_6" class="indicTitle">Business cloud computing access<img src="img/info.svg" class="infoImg" id="Indicator_2_6">
+            </div>
+            <div id="chart_Indicator_2_6" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_2_7" class="indicTitle">SMEs loans share, %<img src="img/info.svg" class="infoImg" id="Indicator_2_7">
+            </div>
+            <div id="chart_Indicator_2_7" class="indicChart">
+            </div>
+        </div>
+    </div>
+    <div id="section3">
+        <div class="introChart">
+            <div id="title_Indicator_3_1" class="indicTitle">Variation in science performance by students' socio-economic status<img src="img/info.svg" class="infoImg" id="Indicator_3_1">
+            </div>
+            <div id="chart_Indicator_3_1" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_3_2" class="indicTitle">Intergenerational earnings elasticity, %<img src="img/info.svg" class="infoImg" id="Indicator_3_2">
+            </div>
+            <div id="chart_Indicator_3_2" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_3_3" class="indicTitle">Child care enrolment, %<img src="img/info.svg" class="infoImg" id="Indicator_3_3">
+            </div>
+            <div id="chart_Indicator_3_3" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_3_4" class="indicTitle">NEET rate, %<img src="img/info.svg" class="infoImg" id="Indicator_3_4">
+            </div>
+            <div id="chart_Indicator_3_4" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_3_5" class="indicTitle">The proportion of adults who are low perfomers, %<img src="img/info.svg" class="infoImg" id="Indicator_3_5">
+            </div>
+            <div id="chart_Indicator_3_5" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_3_6" class="indicTitle">Share of resilient students, %<img src="img/info.svg" class="infoImg" id="Indicator_3_6">
+            </div>
+            <div id="chart_Indicator_3_6" class="indicChart">
+            </div>
+        </div>
+    </div>
+    <div id="section4">
+        <div class="introChart">
+            <div id="title_Indicator_4_1" class="indicTitle">Confidence in national government, %<img src="img/info.svg" class="infoImg" id="Indicator_4_1">
+            </div>
+            <div id="chart_Indicator_4_1" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_4_2" class="indicTitle">Voter turnout at national election, %<img src="img/info.svg" class="infoImg" id="Indicator_4_2">
+            </div>
+            <div id="chart_Indicator_4_2" class="indicChart">
+            </div>
+        </div>
+        <div class="introChart">
+            <div id="title_Indicator_4_3" class="indicTitle">Share of women parliamentarians, %<img src="img/info.svg" class="infoImg" id="Indicator_4_3">
+            </div>
+            <div id="chart_Indicator_4_3" class="indicChart">
+            </div>
+        </div>
+    </div>
+
+</body>
+<script>
+
+    var data = [];
+    var counter = 0;
+
+    var indicator=[]
+
+
+    var width = window.innerWidth;
+    var heightPearl=100;
+
+    var sideMargin = width / 5;
+    var marginLeft = sideMargin;
+    var marginRight = sideMargin;
+
+    var xPearl = d3.scaleLinear()
+        .rangeRound([marginLeft, width - marginRight]);
+
+    var colorDim = d3.scaleOrdinal()
+                .domain(["Workers", "Entrepreneurs", "Student"])
+                .range(["#585a5c", "#585a5c"," #585a5c"]);
+
+    var selCounColor = "#2EAEB7";
+
+    var selCompCounColor ="#D89825";
+
+    var format = d3.format(",.1f");
+    d3.tsv("data/indicators.tsv", function (error, def) {
+        def.forEach(function (d) {
+            indicator.push(d)
+        })
+    });
+    d3.tsv("data/data.tsv", function (error, dataTot) {
+        dataTot.forEach(function (d) {
+            data.push(d)
+            counter++;
+            if (counter === dataTot.length) {
+                loopOverIndicators();
+            }
+        })
+    });
+
+    var tooltip = d3.select("body")
+        .append("div")
+        .style("position", "absolute")
+        .style("z-index", "20")
+        .style("max-width", "350px")
+        .style("visibility", "hidden")
+        .style("color", "#474747")
+        .style("padding", "8px")
+        .style("background-color", "#f0f0f0")
+        .style("border-radius", "3px")
+        .style("font", "11")
+        .style("font-family", "Quattrocento Sans")
+        .style("text-anchor", "middle")
+        .text("");  
+
+    var mousemove = function () {
+        return tooltip.style("top", (d3.event.pageY - 10) + "px").style("left", (d3.event.pageX + 10) + "px");
+    }
+
+    var mouseout = function () { return tooltip.style("visibility", "hidden"); } 
+
+
+    d3.selectAll(".infoImg")
+        .on("mouseover", function () {
+            var infoID = d3.select(this).attr('id');
+            var defDim = "";
+            indicator.forEach(function (d) {
+                if (d.id == infoID)
+                    defDim = d.def;
+            })
+            tooltip.html(defDim);
+            tooltip.style("visibility", "visible");
+        }).on("mousemove", mousemove).on("mouseout", mouseout);
+
+</script>
+
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-51983915-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+</html>

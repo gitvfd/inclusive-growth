@@ -1,0 +1,24 @@
+id	name	def	evoUnit
+Indicator_1_1	GDP per capita growth	Gross domestic product (expenditure approach), US Dollar 2010, per head, constant prices, constant PPPs	percentage points
+Indicator_1_2	Real median income growth	Real median income growth (2011-latest)	percentage points
+Indicator_1_3	80/20 income share		percentage
+Indicator_1_4	Wealth inequality	Bottom 40% wealth share, % of total household net wealth 	percentage points
+Indicator_1_5	Life expectancy at birth 		Years
+Indicator_1_6	Mortality from exposure to outdoor air pollution	Rate per 1 million inhabitants	
+Indicator_1_7	Relative poverty rate	Poverty rate after taxes and transfers (poverty line at 50% of median disposible income)	
+Indicator_2_1	Labour productivity growth	GDP per hour worked in USD (constant prices 2010 and PPPs), 2010 = 100	percentage points
+Indicator_2_2	Employment-to-population ratio 		percentage points
+Indicator_2_3	Earnings dispersion: Interdecile ratio P90/P10 		percentage
+Indicator_2_4	Gender pay gap in %	Difference between male and female median monthly earnings divided by male median monthly earnings, for full-time employees	percentage points
+Indicator_2_5	Involuntary part-time employment	Share in total employment	percentage points
+Indicator_2_6	Business cloud computing access	Digital access as a percentage of all enterprises using icloud computing	
+Indicator_2_7	SMEs loans share, %	SMEs loans share, % (2017 or latest)	
+Indicator_3_1	Variation in science performance by students' socio-economic status 	Based on PISA index of economic, social and cultural status	
+Indicator_3_2	Intergenerational earnings elasticity, % 	Earnings elasticities for father to son	
+Indicator_3_3	Child care enrolment, % 	Children (0-2 year-olds) participating in formal Early Childhood Education and Care services	percentage points
+Indicator_3_4	Title: NEET rate, %	Proportion of 15-29 year olds not in employment, education or training services	percentage points
+Indicator_3_5	The proportion of adults who are low performers, %	 Percentage of adults who score at or below Level 1 in literacy and/or numeracy	
+Indicator_3_6	Share of resilient students, %	A student is classified as resilient if he or she is in the bottom quarter of the PISA index of economic, social and cultural status (ESCS) in the country/economy of assessment and performs in the top quarter of students among all countries/economies, after accounting for socio-economic status	
+Indicator_4_1	Confidence in national government, %	Confidence in national government (2016) and its change since 2007 (%)	percentage points
+Indicator_4_2	Voter turnout at national election, % 	 Percentage of votes cast among the population registered to vote. National elections refer to parliamentary elections, with the exceptions of Brazil, Finland, France, Korea, Mexico, the Russian Federation and the United States, where Presidential elections are considered. Australia, Belgium, Brazil, Luxembourg and Turkey enforce compulsory voting. In Chile, compulsory voting was dropped in 2012.	percentage points
+Indicator_4_3	Share of women parliamentarians, %	Share of women parliamentarians and legislated gender quotas, Lower or single house of parliament	percentage points
