@@ -192,21 +192,45 @@ function pearlchart(nameIndic, selectedCou,compCou,indicData){
 			.on("mouseover", function(d) {
 				var evoValue = data.filter(function (k) { return d.Country == k.Country && idEvo == k.variable })
 				var evoYear = data.filter(function (k) { return d.Country == k.Country && idEvoValue == k.variable })
-				 var evoUnitTooltip;
+				
+				var evoUnitTooltip, unitValue, evoPeriod, unitTooltip;
+
 				indicator.forEach(function(k){
-					if(d.variable==k.id)
-						evoUnitTooltip = k.evoUnit
+					if(d.variable==k.id){
+						evoUnitTooltip = k.evoUnit;
+						unitValue = k.unit;
+						evoPeriod = k.evoSince;
+					}
 				})
+				console.log(evoValue);
+				var formatUnit;
 				var formatEvo;
 				
-				if (d.variable == "Indicator_1_5")
-					formatEvo=d3.format(".2f")
+				if (unitValue=="%")
+					formatUnit = d3.format(".2%")
 				else
-					formatEvo=d3.format(".2%")
+					formatUnit = d3.format(".2f")
 
-				var formatElse
-				tooltip.html(d.Country + "<br> score: " + d3.format(".2f")(d.value) + " (" + evoYear[0].value + ")" + "<br> evolution since 2011: " + formatEvo(evoValue[0].value) + " " + evoUnitTooltip);
-		              tooltip.style("visibility", "visible");
+				if (evoUnitTooltip == "percentage points")
+					formatEvo = d3.format(".2%")
+				else
+					formatEvo = d3.format(".2f")
+
+				if (unitValue=="%") 
+					unitTooltip="";
+				else
+					unitTooltip = unitValue;
+				if (evoValue!=""){
+					console.log('efes')
+					if (evoValue[0].value != "NA")
+						tooltip.html("<b>" + d.Country + "</b><br>" + formatUnit(d.value) + " " + unitTooltip + " (" + evoYear[0].value + ")" + "<br><i> " + evoPeriod + ": </i>" + formatEvo(evoValue[0].value) + " " + evoUnitTooltip);
+					else
+						tooltip.html("<b>" + d.Country + "</b><br>" + formatUnit(d.value) + " " + unitTooltip + " <i>(" + evoYear[0].value + ")</i>");
+				}
+				else
+					tooltip.html("<b>" + d.Country + "</b><br>" + formatUnit(d.value) + " " + unitTooltip + " <i>(" + evoYear[0].value + ")</i>");
+
+				tooltip.style("visibility", "visible");
 		      })
 		    .on("mousemove", mousemove)
 		   	.on("mouseout", mouseout);
