@@ -14,7 +14,7 @@ Estonia	Indicator_1_1	0.03407
 Finland	Indicator_1_1	0.00052
 France	Indicator_1_1	0.00596
 United Kingdom	Indicator_1_1	0.0133
-Grèce	Indicator_1_1	-0.01027
+Greece	Indicator_1_1	-0.01027
 Hungary	Indicator_1_1	0.02738
 Ireland	Indicator_1_1	0.06925
 Iceland	Indicator_1_1	0.02601
@@ -51,7 +51,7 @@ Estonia	Evo_Indicator_1_1	-0.0488
 Finland	Evo_Indicator_1_1	-0.028
 France	Evo_Indicator_1_1	-0.0058
 United Kingdom	Evo_Indicator_1_1	-0.0083
-Grèce	Evo_Indicator_1_1	-0.0475
+Greece	Evo_Indicator_1_1	-0.0475
 Hungary	Evo_Indicator_1_1	-0.0118
 Ireland	Evo_Indicator_1_1	0.0358
 Iceland	Evo_Indicator_1_1	-0.0096
@@ -88,7 +88,7 @@ Estonia	Year_Indicator_1_1	2011-2017
 Finland	Year_Indicator_1_1	2011-2017
 France	Year_Indicator_1_1	2011-2017
 United Kingdom	Year_Indicator_1_1	2011-2017
-Grèce	Year_Indicator_1_1	2011-2017
+Greece	Year_Indicator_1_1	2011-2017
 Hungary	Year_Indicator_1_1	2011-2017
 Ireland	Year_Indicator_1_1	2011-2017
 Iceland	Year_Indicator_1_1	2011-2017
@@ -125,7 +125,7 @@ Estonia	Indicator_1_2	NA
 Finland	Indicator_1_2	-0.0017
 France	Indicator_1_2	-0.0021
 United Kingdom	Indicator_1_2	0.0122
-Grèce	Indicator_1_2	-0.042
+Greece	Indicator_1_2	-0.042
 Hungary	Indicator_1_2	0.0635
 Ireland	Indicator_1_2	0.0317
 Iceland	Indicator_1_2	0.0192
@@ -162,7 +162,7 @@ Estonia	Evo_Indicator_1_2	NA
 Finland	Evo_Indicator_1_2	-0.0169
 France	Evo_Indicator_1_2	0.0019
 United Kingdom	Evo_Indicator_1_2	0.0275
-Grèce	Evo_Indicator_1_2	0.0596
+Greece	Evo_Indicator_1_2	0.0596
 Hungary	Evo_Indicator_1_2	0.0889
 Ireland	Evo_Indicator_1_2	0.0982
 Iceland	Evo_Indicator_1_2	0.0937
@@ -199,7 +199,7 @@ Estonia	Year_Indicator_1_2	2011-latest
 Finland	Year_Indicator_1_2	2011-latest
 France	Year_Indicator_1_2	2011-latest
 United Kingdom	Year_Indicator_1_2	2011-latest
-Grèce	Year_Indicator_1_2	2011-latest
+Greece	Year_Indicator_1_2	2011-latest
 Hungary	Year_Indicator_1_2	2011-latest
 Ireland	Year_Indicator_1_2	2011-latest
 Iceland	Year_Indicator_1_2	2011-latest
@@ -236,7 +236,7 @@ Estonia	Indicator_1_3	5.34273
 Finland	Indicator_1_3	3.68097
 France	Indicator_1_3	4.34087
 United Kingdom	Indicator_1_3	6.00374
-Grèce	Indicator_1_3	6.00676
+Greece	Indicator_1_3	6.00676
 Hungary	Indicator_1_3	4.46792
 Ireland	Indicator_1_3	4.51829
 Iceland	Indicator_1_3	3.61472
@@ -273,7 +273,7 @@ Estonia	Evo_Indicator_1_3	-0.1663
 Finland	Evo_Indicator_1_3	-0.1362
 France	Evo_Indicator_1_3	-0.3239
 United Kingdom	Evo_Indicator_1_3	0.1071
-Grèce	Evo_Indicator_1_3	-0.1506
+Greece	Evo_Indicator_1_3	-0.1506
 Hungary	Evo_Indicator_1_3	-0.0642
 Ireland	Evo_Indicator_1_3	-0.3366
 Iceland	Evo_Indicator_1_3	0.0305
@@ -310,7 +310,7 @@ Estonia	Year_Indicator_1_3	2016
 Finland	Year_Indicator_1_3	2016
 France	Year_Indicator_1_3	2016
 United Kingdom	Year_Indicator_1_3	2016
-Grèce	Year_Indicator_1_3	2016
+Greece	Year_Indicator_1_3	2016
 Hungary	Year_Indicator_1_3	2014
 Ireland	Year_Indicator_1_3	2015
 Iceland	Year_Indicator_1_3	2015
@@ -347,7 +347,7 @@ Estonia	Indicator_1_4	0.0377
 Finland	Indicator_1_4	0.0218
 France	Indicator_1_4	0.0268
 United Kingdom	Indicator_1_4	0.0328
-Grèce	Indicator_1_4	0.0525
+Greece	Indicator_1_4	0.0525
 Hungary	Indicator_1_4	0.0502
 Ireland	Indicator_1_4	-0.0206
 Iceland	Indicator_1_4	NA
@@ -384,7 +384,7 @@ Estonia	Evo_Indicator_1_4	NA
 Finland	Evo_Indicator_1_4	NA
 France	Evo_Indicator_1_4	NA
 United Kingdom	Evo_Indicator_1_4	-0.0093
-Grèce	Evo_Indicator_1_4	NA
+Greece	Evo_Indicator_1_4	NA
 Hungary	Evo_Indicator_1_4	NA
 Ireland	Evo_Indicator_1_4	NA
 Iceland	Evo_Indicator_1_4	NA
@@ -421,7 +421,7 @@ Estonia	Year_Indicator_1_4	latest
 Finland	Year_Indicator_1_4	latest
 France	Year_Indicator_1_4	latest
 United Kingdom	Year_Indicator_1_4	latest
-Grèce	Year_Indicator_1_4	latest
+Greece	Year_Indicator_1_4	latest
 Hungary	Year_Indicator_1_4	latest
 Ireland	Year_Indicator_1_4	latest
 Iceland	Year_Indicator_1_4	latest
@@ -458,7 +458,7 @@ Estonia	Indicator_1_5	77.8
 Finland	Indicator_1_5	81.5
 France	Indicator_1_5	82.4
 United Kingdom	Indicator_1_5	81.2
-Grèce	Indicator_1_5	81.5
+Greece	Indicator_1_5	81.5
 Hungary	Indicator_1_5	76.2
 Ireland	Indicator_1_5	81.8
 Iceland	Indicator_1_5	82.3
@@ -495,7 +495,7 @@ Estonia	Evo_Indicator_1_5	1.4
 Finland	Evo_Indicator_1_5	0.9
 France	Evo_Indicator_1_5	0.1
 United Kingdom	Evo_Indicator_1_5	0.2
-Grèce	Evo_Indicator_1_5	0.7
+Greece	Evo_Indicator_1_5	0.7
 Hungary	Evo_Indicator_1_5	1.2
 Ireland	Evo_Indicator_1_5	1
 Iceland	Evo_Indicator_1_5	-0.1
@@ -532,7 +532,7 @@ Estonia	Year_Indicator_1_5	latest
 Finland	Year_Indicator_1_5	latest
 France	Year_Indicator_1_5	latest
 United Kingdom	Year_Indicator_1_5	latest
-Grèce	Year_Indicator_1_5	latest
+Greece	Year_Indicator_1_5	latest
 Hungary	Year_Indicator_1_5	latest
 Ireland	Year_Indicator_1_5	latest
 Iceland	Year_Indicator_1_5	latest
@@ -569,7 +569,7 @@ Estonia	Indicator_1_6	259.1487
 Finland	Indicator_1_6	202.4156
 France	Indicator_1_6	295.0808
 United Kingdom	Indicator_1_6	374.8713
-Grèce	Indicator_1_6	628.874
+Greece	Indicator_1_6	628.874
 Hungary	Indicator_1_6	649.1384
 Ireland	Indicator_1_6	232.5816
 Iceland	Indicator_1_6	175.9083
@@ -606,7 +606,7 @@ Estonia	Evo_Indicator_1_6	-68.529
 Finland	Evo_Indicator_1_6	-54.8395
 France	Evo_Indicator_1_6	-36.7015
 United Kingdom	Evo_Indicator_1_6	-38.6266
-Grèce	Evo_Indicator_1_6	34.8148
+Greece	Evo_Indicator_1_6	34.8148
 Hungary	Evo_Indicator_1_6	-74.5902
 Ireland	Evo_Indicator_1_6	-13.0795
 Iceland	Evo_Indicator_1_6	-21.8774
@@ -643,7 +643,7 @@ Estonia	Year_Indicator_1_6	latest
 Finland	Year_Indicator_1_6	latest
 France	Year_Indicator_1_6	latest
 United Kingdom	Year_Indicator_1_6	latest
-Grèce	Year_Indicator_1_6	latest
+Greece	Year_Indicator_1_6	latest
 Hungary	Year_Indicator_1_6	latest
 Ireland	Year_Indicator_1_6	latest
 Iceland	Year_Indicator_1_6	latest
@@ -680,7 +680,7 @@ Estonia	Indicator_1_7	0.157
 Finland	Indicator_1_7	0.0576
 France	Indicator_1_7	0.0826
 United Kingdom	Indicator_1_7	0.111
-Grèce	Indicator_1_7	0.1438
+Greece	Indicator_1_7	0.1438
 Hungary	Indicator_1_7	0.101
 Ireland	Indicator_1_7	0.0976
 Iceland	Indicator_1_7	0.0541
@@ -717,7 +717,7 @@ Estonia	Evo_Indicator_1_7	0.0423
 Finland	Evo_Indicator_1_7	-0.0174
 France	Evo_Indicator_1_7	0.0026
 United Kingdom	Evo_Indicator_1_7	0.0072
-Grèce	Evo_Indicator_1_7	-0.0068
+Greece	Evo_Indicator_1_7	-0.0068
 Hungary	Evo_Indicator_1_7	-0.0023
 Ireland	Evo_Indicator_1_7	-0.0024
 Iceland	Evo_Indicator_1_7	-0.0036
@@ -754,7 +754,7 @@ Estonia	Year_Indicator_1_7	2016 or latest
 Finland	Year_Indicator_1_7	2016 or latest
 France	Year_Indicator_1_7	2016 or latest
 United Kingdom	Year_Indicator_1_7	2016 or latest
-Grèce	Year_Indicator_1_7	2016 or latest
+Greece	Year_Indicator_1_7	2016 or latest
 Hungary	Year_Indicator_1_7	2016 or latest
 Ireland	Year_Indicator_1_7	2016 or latest
 Iceland	Year_Indicator_1_7	2016 or latest
@@ -791,7 +791,7 @@ Estonia	Indicator_2_1	0.0218
 Finland	Indicator_2_1	0.0055
 France	Indicator_2_1	0.008
 United Kingdom	Indicator_2_1	0.0029
-Grèce	Indicator_2_1	-0.0068
+Greece	Indicator_2_1	-0.0068
 Hungary	Indicator_2_1	0.0044
 Ireland	Indicator_2_1	0.048
 Iceland	Indicator_2_1	0.0126
@@ -828,7 +828,7 @@ Estonia	Evo_Indicator_2_1	-0.0383
 Finland	Evo_Indicator_2_1	-0.0179
 France	Evo_Indicator_2_1	-0.0045
 United Kingdom	Evo_Indicator_2_1	-0.0175
-Grèce	Evo_Indicator_2_1	-0.0288
+Greece	Evo_Indicator_2_1	-0.0288
 Hungary	Evo_Indicator_2_1	-0.0349
 Ireland	Evo_Indicator_2_1	0.0232
 Iceland	Evo_Indicator_2_1	-0.0316
@@ -865,7 +865,7 @@ Estonia	Year_Indicator_2_1	2011-2017 or latest
 Finland	Year_Indicator_2_1	2011-2017 or latest
 France	Year_Indicator_2_1	2011-2017 or latest
 United Kingdom	Year_Indicator_2_1	2011-2017 or latest
-Grèce	Year_Indicator_2_1	2011-2017 or latest
+Greece	Year_Indicator_2_1	2011-2017 or latest
 Hungary	Year_Indicator_2_1	2011-2017 or latest
 Ireland	Year_Indicator_2_1	2011-2017 or latest
 Iceland	Year_Indicator_2_1	2011-2017 or latest
@@ -902,7 +902,7 @@ Estonia	Indicator_2_2	65.9
 Finland	Indicator_2_2	60
 France	Indicator_2_2	50.6
 United Kingdom	Indicator_2_2	60.4
-Grèce	Indicator_2_2	39.8
+Greece	Indicator_2_2	39.8
 Hungary	Indicator_2_2	58
 Ireland	Indicator_2_2	55.3
 Iceland	Indicator_2_2	81.1
@@ -939,7 +939,7 @@ Estonia	Evo_Indicator_2_2	6.5
 Finland	Evo_Indicator_2_2	-1.5
 France	Evo_Indicator_2_2	-0.7
 United Kingdom	Evo_Indicator_2_2	2.4
-Grèce	Evo_Indicator_2_2	-3.5
+Greece	Evo_Indicator_2_2	-3.5
 Hungary	Evo_Indicator_2_2	8.9
 Ireland	Evo_Indicator_2_2	3.6
 Iceland	Evo_Indicator_2_2	6.4
@@ -976,7 +976,7 @@ Estonia	Year_Indicator_2_2	2016
 Finland	Year_Indicator_2_2	2016
 France	Year_Indicator_2_2	2016
 United Kingdom	Year_Indicator_2_2	2016
-Grèce	Year_Indicator_2_2	2016
+Greece	Year_Indicator_2_2	2016
 Hungary	Year_Indicator_2_2	2016
 Ireland	Year_Indicator_2_2	2016
 Iceland	Year_Indicator_2_2	2016
@@ -1013,7 +1013,7 @@ Estonia	Indicator_2_3	3.785
 Finland	Indicator_2_3	2.5029
 France	Indicator_2_3	2.8067
 United Kingdom	Indicator_2_3	3.4243
-Grèce	Indicator_2_3	3.267
+Greece	Indicator_2_3	3.267
 Hungary	Indicator_2_3	3.73
 Ireland	Indicator_2_3	3.787
 Iceland	Indicator_2_3	2.9858
@@ -1050,7 +1050,7 @@ Estonia	Evo_Indicator_2_3	-0.268402102
 Finland	Evo_Indicator_2_3	-0.081337135
 France	Evo_Indicator_2_3	0.000176417
 United Kingdom	Evo_Indicator_2_3	-0.19086303
-Grèce	Evo_Indicator_2_3	0.258869919
+Greece	Evo_Indicator_2_3	0.258869919
 Hungary	Evo_Indicator_2_3	-0.369819149
 Ireland	Evo_Indicator_2_3	-0.125864881
 Iceland	Evo_Indicator_2_3	0.106697111
@@ -1087,7 +1087,7 @@ Estonia	Year_Indicator_2_3	2014
 Finland	Year_Indicator_2_3	2016
 France	Year_Indicator_2_3	2014
 United Kingdom	Year_Indicator_2_3	2017
-Grèce	Year_Indicator_2_3	2016
+Greece	Year_Indicator_2_3	2016
 Hungary	Year_Indicator_2_3	2016
 Ireland	Year_Indicator_2_3	2016
 Iceland	Year_Indicator_2_3	2015
@@ -1124,7 +1124,7 @@ Estonia	Indicator_2_4	28.33935
 Finland	Indicator_2_4	16.47226
 France	Indicator_2_4	9.8721
 United Kingdom	Indicator_2_4	17.38274
-Grèce	Indicator_2_4	4.48505
+Greece	Indicator_2_4	4.48505
 Hungary	Indicator_2_4	9.36432
 Ireland	Indicator_2_4	10.61174
 Iceland	Indicator_2_4	9.9314
@@ -1161,7 +1161,7 @@ Estonia	Evo_Indicator_2_4	0.541516246
 Finland	Evo_Indicator_2_4	-2.135358725
 France	Evo_Indicator_2_4	-17.92573162
 United Kingdom	Evo_Indicator_2_4	-0.863262632
-Grèce	Evo_Indicator_2_4	-6.22923588
+Greece	Evo_Indicator_2_4	-6.22923588
 Hungary	Evo_Indicator_2_4	2.500411855
 Ireland	Evo_Indicator_2_4	0.16488278
 Iceland	Evo_Indicator_2_4	-4.148409474
@@ -1198,7 +1198,7 @@ Estonia	Year_Indicator_2_4	2017 or latest
 Finland	Year_Indicator_2_4	2017 or latest
 France	Year_Indicator_2_4	2017 or latest
 United Kingdom	Year_Indicator_2_4	2017 or latest
-Grèce	Year_Indicator_2_4	2017 or latest
+Greece	Year_Indicator_2_4	2017 or latest
 Hungary	Year_Indicator_2_4	2017 or latest
 Ireland	Year_Indicator_2_4	2017 or latest
 Iceland	Year_Indicator_2_4	2017 or latest
@@ -1235,7 +1235,7 @@ Estonia	Indicator_2_5	0.76752
 Finland	Indicator_2_5	4.16022
 France	Indicator_2_5	7.86201
 United Kingdom	Indicator_2_5	3.46607
-Grèce	Indicator_2_5	6.64897
+Greece	Indicator_2_5	6.64897
 Hungary	Indicator_2_5	1.15122
 Ireland	Indicator_2_5	4.70322
 Iceland	Indicator_2_5	3.04186
@@ -1272,7 +1272,7 @@ Estonia	Evo_Indicator_2_5	-1.288196464
 Finland	Evo_Indicator_2_5	0.850223097
 France	Evo_Indicator_2_5	2.700308918
 United Kingdom	Evo_Indicator_2_5	-1.198284366
-Grèce	Evo_Indicator_2_5	2.786435804
+Greece	Evo_Indicator_2_5	2.786435804
 Hungary	Evo_Indicator_2_5	-1.391992579
 Ireland	Evo_Indicator_2_5	-3.343975107
 Iceland	Evo_Indicator_2_5	-1.92017333
@@ -1309,7 +1309,7 @@ Estonia	Year_Indicator_2_5	2017
 Finland	Year_Indicator_2_5	2017
 France	Year_Indicator_2_5	2017
 United Kingdom	Year_Indicator_2_5	2017
-Grèce	Year_Indicator_2_5	2017
+Greece	Year_Indicator_2_5	2017
 Hungary	Year_Indicator_2_5	2017
 Ireland	Year_Indicator_2_5	2017
 Iceland	Year_Indicator_2_5	2017
@@ -1346,7 +1346,7 @@ Estonia	Indicator_2_6	0.2284
 Finland	Indicator_2_6	0.5692
 France	Indicator_2_6	0.1711
 United Kingdom	Indicator_2_6	0.3467
-Grèce	Indicator_2_6	0.0922
+Greece	Indicator_2_6	0.0922
 Hungary	Indicator_2_6	0.1219
 Ireland	Indicator_2_6	0.3608
 Iceland	Indicator_2_6	0.4313
@@ -1383,7 +1383,7 @@ Estonia	Year_Indicator_2_6	2016
 Finland	Year_Indicator_2_6	2016
 France	Year_Indicator_2_6	2016
 United Kingdom	Year_Indicator_2_6	2016
-Grèce	Year_Indicator_2_6	2016
+Greece	Year_Indicator_2_6	2016
 Hungary	Year_Indicator_2_6	2016
 Ireland	Year_Indicator_2_6	2016
 Iceland	Year_Indicator_2_6	2016
@@ -1420,7 +1420,7 @@ Estonia	Indicator_2_7	26.15
 Finland	Indicator_2_7	NA
 France	Indicator_2_7	20.45
 United Kingdom	Indicator_2_7	35.51
-Grèce	Indicator_2_7	54.39
+Greece	Indicator_2_7	54.39
 Hungary	Indicator_2_7	69
 Ireland	Indicator_2_7	57.04
 Iceland	Indicator_2_7	NA
@@ -1457,7 +1457,7 @@ Estonia	Evo_Indicator_2_7	-2.13
 Finland	Evo_Indicator_2_7	NA
 France	Evo_Indicator_2_7	-0.32
 United Kingdom	Evo_Indicator_2_7	-1.99
-Grèce	Evo_Indicator_2_7	17.55
+Greece	Evo_Indicator_2_7	17.55
 Hungary	Evo_Indicator_2_7	15
 Ireland	Evo_Indicator_2_7	-10.78
 Iceland	Evo_Indicator_2_7	NA
@@ -1494,7 +1494,7 @@ Estonia	Year_Indicator_2_7	2017 or latest
 Finland	Year_Indicator_2_7	2017 or latest
 France	Year_Indicator_2_7	2017 or latest
 United Kingdom	Year_Indicator_2_7	2017 or latest
-Grèce	Year_Indicator_2_7	2017 or latest
+Greece	Year_Indicator_2_7	2017 or latest
 Hungary	Year_Indicator_2_7	2017 or latest
 Ireland	Year_Indicator_2_7	2017 or latest
 Iceland	Year_Indicator_2_7	2017 or latest
@@ -1531,7 +1531,7 @@ Estonia	Indicator_3_1	7.8479
 Finland	Indicator_3_1	10.0078
 France	Indicator_3_1	20.3476
 United Kingdom	Indicator_3_1	10.535
-Grèce	Indicator_3_1	12.5428
+Greece	Indicator_3_1	12.5428
 Hungary	Indicator_3_1	21.3971
 Ireland	Indicator_3_1	12.6696
 Iceland	Indicator_3_1	4.9224
@@ -1568,7 +1568,7 @@ Estonia	Year_Indicator_3_1	2015
 Finland	Year_Indicator_3_1	2015
 France	Year_Indicator_3_1	2015
 United Kingdom	Year_Indicator_3_1	2015
-Grèce	Year_Indicator_3_1	2015
+Greece	Year_Indicator_3_1	2015
 Hungary	Year_Indicator_3_1	2015
 Ireland	Year_Indicator_3_1	2015
 Iceland	Year_Indicator_3_1	2015
@@ -1605,7 +1605,7 @@ Estonia	Indicator_3_2	NA
 Finland	Indicator_3_2	0.189
 France	Indicator_3_2	0.53
 United Kingdom	Indicator_3_2	0.439
-Grèce	Indicator_3_2	0.316
+Greece	Indicator_3_2	0.316
 Hungary	Indicator_3_2	0.621
 Ireland	Indicator_3_2	0.395
 Iceland	Indicator_3_2	NA
@@ -1642,7 +1642,7 @@ Estonia	Year_Indicator_3_2	Late 2000's
 Finland	Year_Indicator_3_2	Late 2000's
 France	Year_Indicator_3_2	Late 2000's
 United Kingdom	Year_Indicator_3_2	Late 2000's
-Grèce	Year_Indicator_3_2	Late 2000's
+Greece	Year_Indicator_3_2	Late 2000's
 Hungary	Year_Indicator_3_2	Late 2000's
 Ireland	Year_Indicator_3_2	Late 2000's
 Iceland	Year_Indicator_3_2	Late 2000's
@@ -1679,7 +1679,7 @@ Estonia	Indicator_3_3	28.5
 Finland	Indicator_3_3	30.5
 France	Indicator_3_3	56.7
 United Kingdom	Indicator_3_3	31.5
-Grèce	Indicator_3_3	11.5
+Greece	Indicator_3_3	11.5
 Hungary	Indicator_3_3	16.7
 Ireland	Indicator_3_3	16.6
 Iceland	Indicator_3_3	59.7
@@ -1716,7 +1716,7 @@ Estonia	Evo_Indicator_3_3	5.7
 Finland	Evo_Indicator_3_3	3.9
 France	Evo_Indicator_3_3	5.7
 United Kingdom	Evo_Indicator_3_3	-7.6
-Grèce	Evo_Indicator_3_3	0.2
+Greece	Evo_Indicator_3_3	0.2
 Hungary	Evo_Indicator_3_3	7.1
 Ireland	Evo_Indicator_3_3	NA
 Iceland	Evo_Indicator_3_3	4.9
@@ -1753,7 +1753,7 @@ Estonia	Year_Indicator_3_3	2016 or latest
 Finland	Year_Indicator_3_3	2016 or latest
 France	Year_Indicator_3_3	2016 or latest
 United Kingdom	Year_Indicator_3_3	2016 or latest
-Grèce	Year_Indicator_3_3	2016 or latest
+Greece	Year_Indicator_3_3	2016 or latest
 Hungary	Year_Indicator_3_3	2016 or latest
 Ireland	Year_Indicator_3_3	2016 or latest
 Iceland	Year_Indicator_3_3	2016 or latest
@@ -1790,7 +1790,7 @@ Estonia	Indicator_3_4	11.75109
 Finland	Indicator_3_4	12.60504
 France	Indicator_3_4	16.5467
 United Kingdom	Indicator_3_4	12.19137
-Grèce	Indicator_3_4	22.75212
+Greece	Indicator_3_4	22.75212
 Hungary	Indicator_3_4	14.01592
 Ireland	Indicator_3_4	13.1054
 Iceland	Indicator_3_4	4.90179
@@ -1827,7 +1827,7 @@ Estonia	Evo_Indicator_3_4	-3.403377
 Finland	Evo_Indicator_3_4	0.848218
 France	Evo_Indicator_3_4	0.139201
 United Kingdom	Evo_Indicator_3_4	-3.310117
-Grèce	Evo_Indicator_3_4	1.157251
+Greece	Evo_Indicator_3_4	1.157251
 Hungary	Evo_Indicator_3_4	-4.515086
 Ireland	Evo_Indicator_3_4	-8.817469
 Iceland	Evo_Indicator_3_4	-4.8527942
@@ -1864,7 +1864,7 @@ Estonia	Year_Indicator_3_4	2017
 Finland	Year_Indicator_3_4	2017
 France	Year_Indicator_3_4	2017
 United Kingdom	Year_Indicator_3_4	2017
-Grèce	Year_Indicator_3_4	2017
+Greece	Year_Indicator_3_4	2017
 Hungary	Year_Indicator_3_4	2017
 Ireland	Year_Indicator_3_4	2017
 Iceland	Year_Indicator_3_4	2017
@@ -1901,7 +1901,7 @@ Estonia	Indicator_3_5	0.18216
 Finland	Indicator_3_5	0.15392
 France	Indicator_3_5	0.31458
 United Kingdom	Indicator_3_5	NA
-Grèce	Indicator_3_5	0.35538
+Greece	Indicator_3_5	0.35538
 Hungary	Indicator_3_5	NA
 Ireland	Indicator_3_5	0.27744
 Iceland	Indicator_3_5	0.36309
@@ -1938,7 +1938,7 @@ Estonia	Year_Indicator_3_5	2015
 Finland	Year_Indicator_3_5	2015
 France	Year_Indicator_3_5	2015
 United Kingdom	Year_Indicator_3_5	2015
-Grèce	Year_Indicator_3_5	2015
+Greece	Year_Indicator_3_5	2015
 Hungary	Year_Indicator_3_5	2015
 Ireland	Year_Indicator_3_5	2015
 Iceland	Year_Indicator_3_5	2015
@@ -1975,7 +1975,7 @@ Estonia	Indicator_3_6	0.48283
 Finland	Indicator_3_6	0.42758
 France	Indicator_3_6	0.2665
 United Kingdom	Indicator_3_6	0.3544
-Grèce	Indicator_3_6	0.18072
+Greece	Indicator_3_6	0.18072
 Hungary	Indicator_3_6	0.19323
 Ireland	Indicator_3_6	0.29588
 Iceland	Indicator_3_6	0.17005
@@ -2012,7 +2012,7 @@ Estonia	Year_Indicator_3_6	2015
 Finland	Year_Indicator_3_6	2015
 France	Year_Indicator_3_6	2015
 United Kingdom	Year_Indicator_3_6	2015
-Grèce	Year_Indicator_3_6	2015
+Greece	Year_Indicator_3_6	2015
 Hungary	Year_Indicator_3_6	2015
 Ireland	Year_Indicator_3_6	2015
 Iceland	Year_Indicator_3_6	2015
@@ -2049,7 +2049,7 @@ Estonia	Indicator_4_1	0.3398
 Finland	Indicator_4_1	0.49
 France	Indicator_4_1	0.28
 United Kingdom	Indicator_4_1	0.41
-Grèce	Indicator_4_1	0.13
+Greece	Indicator_4_1	0.13
 Hungary	Indicator_4_1	0.3
 Ireland	Indicator_4_1	0.57
 Iceland	Indicator_4_1	0.36
@@ -2086,7 +2086,7 @@ Estonia	Evo_Indicator_4_1	-0.0802
 Finland	Evo_Indicator_4_1	-0.27
 France	Evo_Indicator_4_1	-0.08
 United Kingdom	Evo_Indicator_4_1	0.05
-Grèce	Evo_Indicator_4_1	-0.25
+Greece	Evo_Indicator_4_1	-0.25
 Hungary	Evo_Indicator_4_1	0.05
 Ireland	Evo_Indicator_4_1	-0.06
 Iceland	Evo_Indicator_4_1	0.12
@@ -2123,7 +2123,7 @@ Estonia	Year_Indicator_4_1	2016
 Finland	Year_Indicator_4_1	2016
 France	Year_Indicator_4_1	2016
 United Kingdom	Year_Indicator_4_1	2016
-Grèce	Year_Indicator_4_1	2016
+Greece	Year_Indicator_4_1	2016
 Hungary	Year_Indicator_4_1	2016
 Ireland	Year_Indicator_4_1	2016
 Iceland	Year_Indicator_4_1	2016
@@ -2160,7 +2160,7 @@ Estonia	Indicator_4_2	64.23
 Finland	Indicator_4_2	66.76
 France	Indicator_4_2	74.56
 United Kingdom	Indicator_4_2	68.93
-Grèce	Indicator_4_2	63.94
+Greece	Indicator_4_2	63.94
 Hungary	Indicator_4_2	69.67
 Ireland	Indicator_4_2	65.09
 Iceland	Indicator_4_2	79.18
@@ -2197,7 +2197,7 @@ Estonia	Evo_Indicator_4_2	0.7
 Finland	Evo_Indicator_4_2	-2.1
 France	Evo_Indicator_4_2	-5.79
 United Kingdom	Evo_Indicator_4_2	3.16
-Grèce	Evo_Indicator_4_2	1.47
+Greece	Evo_Indicator_4_2	1.47
 Hungary	Evo_Indicator_4_2	5.29
 Ireland	Evo_Indicator_4_2	-4.81
 Iceland	Evo_Indicator_4_2	NA
@@ -2234,7 +2234,7 @@ Estonia	Year_Indicator_4_2	2015
 Finland	Year_Indicator_4_2	2015
 France	Year_Indicator_4_2	2015
 United Kingdom	Year_Indicator_4_2	2017
-Grèce	Year_Indicator_4_2	2017
+Greece	Year_Indicator_4_2	2017
 Hungary	Year_Indicator_4_2	2017
 Ireland	Year_Indicator_4_2	2015
 Iceland	Year_Indicator_4_2	2015
@@ -2271,7 +2271,7 @@ Estonia	Indicator_4_3	0.267
 Finland	Indicator_4_3	0.42
 France	Indicator_4_3	0.396
 United Kingdom	Indicator_4_3	0.322
-Grèce	Indicator_4_3	0.187
+Greece	Indicator_4_3	0.187
 Hungary	Indicator_4_3	0.126
 Ireland	Indicator_4_3	0.222
 Iceland	Indicator_4_3	0.381
@@ -2308,7 +2308,7 @@ Estonia	Evo_Indicator_4_3	0.069
 Finland	Evo_Indicator_4_3	-0.005
 France	Evo_Indicator_4_3	0.207
 United Kingdom	Evo_Indicator_4_3	0.102
-Grèce	Evo_Indicator_4_3	0.014
+Greece	Evo_Indicator_4_3	0.014
 Hungary	Evo_Indicator_4_3	0.035
 Ireland	Evo_Indicator_4_3	0.071
 Iceland	Evo_Indicator_4_3	-0.048
@@ -2345,7 +2345,7 @@ Estonia	Year_Indicator_4_3	2018
 Finland	Year_Indicator_4_3	2018
 France	Year_Indicator_4_3	2018
 United Kingdom	Year_Indicator_4_3	2018
-Grèce	Year_Indicator_4_3	2018
+Greece	Year_Indicator_4_3	2018
 Hungary	Year_Indicator_4_3	2018
 Ireland	Year_Indicator_4_3	2018
 Iceland	Year_Indicator_4_3	2018

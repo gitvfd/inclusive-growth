@@ -11,7 +11,19 @@
 </head>
 
 <body id="page">
-
+    <div id='sectionsel'>
+        <form>
+            <label class="radio"><input type="radio" id="radio_section_1" name="radio_section" onclick="update()" checked>
+                section 1</label>
+            <label class="radio"><input type="radio" id="radio_section_2" name="radio_section" onclick="update()"> section
+                2</label>
+            <label class="radio"><input type="radio" id="radio_section_3" name="radio_section" onclick="update()"> section
+                3</label>
+            <label class="radio"><input type="radio" id="radio_section_4" name="radio_section" onclick="update()"> section
+                4</label>
+        </form>
+    </div>
+    <Br/>
     <div id="Country_sel">
         <div id="selCountry">
             <div class="dropdown_text">Select a country: </div>
@@ -103,6 +115,7 @@
             </select>
         </div>
     </div>
+<Br/>
     <div id="section1">
         <div class="introChart">
             <div id="title_Indicator_1_1" class="indicTitle">GDP per capita growth<img src="img/info.svg" class="infoImg" id="Indicator_1_1">
@@ -324,6 +337,40 @@
             tooltip.html(defDim);
             tooltip.style("visibility", "visible");
         }).on("mousemove", mousemove).on("mouseout", mouseout);
+
+        function update(){
+            if (document.getElementById('radio_section_1').checked) {
+                console.log("1")
+                    document.getElementById('section1').style.display = 'block';
+            } else {
+                console.log("no")
+                document.getElementById('section1').style.display = 'none';
+            }
+            
+            if (document.getElementById('radio_section_2').checked) {
+                console.log("2")
+                    document.getElementById('section2').style.display = 'block';
+            } else{
+                console.log("no")
+                            document.getElementById('section2').style.display = 'none';
+            }
+            if (document.getElementById('radio_section_3').checked) {
+                console.log("3")
+                    document.getElementById('section3').style.display = 'block';
+            } else{
+                console.log("no")
+                    document.getElementById('section3').style.display = 'none';
+            }
+
+            if (document.getElementById('radio_section_4').checked) {
+                console.log("4")
+                    document.getElementById('section4').style.display = 'block';
+            } else{
+                console.log("no")
+                    document.getElementById('section4').style.display = 'none';
+            }
+
+        }
 
 </script>
 
