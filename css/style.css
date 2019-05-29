@@ -16,15 +16,38 @@ body{
   opacity:0.8;
   cursor: pointer;
 }
+
+#sectionsel{
+   width:90%;
+	  margin-right:auto;
+	  margin-left:auto;
+    
+}
+.radio {
+    display: inline-block;
+    width: 95px;
+    height: 20px;
+    text-align: center;
+    vertical-align: top;
+    padding-top: 5px;
+
+    font-family: 'Raleway', sans-serif;
+    font-weight:300;
+    font-size:12px;
+}
+#section2,#section3,#section4{
+  display:none;
+}
+
 /*****************************/
 /** Dropdown                **/
 /*****************************/
 
 #Country_sel{
     /**display: block;**/
-    position: -webkit-sticky;
+  /* position: -webkit-sticky;
     position: sticky;
-    top: 0px;/**Allows to leave the tab on top of the page at all time**/
+    top: 0px;**/
     width:90%;
 	  margin-right:auto;
 	  margin-left:auto;

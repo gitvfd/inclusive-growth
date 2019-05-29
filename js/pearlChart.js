@@ -192,10 +192,20 @@ function pearlchart(nameIndic, selectedCou,compCou,indicData){
 			.on("mouseover", function(d) {
 				var evoValue = data.filter(function (k) { return d.Country == k.Country && idEvo == k.variable })
 				var evoYear = data.filter(function (k) { return d.Country == k.Country && idEvoValue == k.variable })
-				console.log(evoValue); console.log(evoYear)
+				 var evoUnitTooltip;
+				indicator.forEach(function(k){
+					if(d.variable==k.id)
+						evoUnitTooltip = k.evoUnit
+				})
+				var formatEvo;
+				
+				if (d.variable == "Indicator_1_5")
+					formatEvo=d3.format(".2f")
+				else
+					formatEvo=d3.format(".2%")
 
-
-				tooltip.html(d.Country + "<br> score: " + d3.format(".2f")(d.value) + " (" + evoYear[0].value + ")" + "<br> evolution since 2011: " + d3.format(".2f")(evoValue[0].value) );
+				var formatElse
+				tooltip.html(d.Country + "<br> score: " + d3.format(".2f")(d.value) + " (" + evoYear[0].value + ")" + "<br> evolution since 2011: " + formatEvo(evoValue[0].value) + " " + evoUnitTooltip);
 		              tooltip.style("visibility", "visible");
 		      })
 		    .on("mousemove", mousemove)
