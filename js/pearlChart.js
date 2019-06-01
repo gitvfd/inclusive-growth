@@ -202,7 +202,7 @@ function pearlchart(nameIndic, selectedCou,compCou,indicData){
 						evoPeriod = k.evoSince;
 					}
 				})
-				console.log(evoValue);
+				
 				var formatUnit;
 				var formatEvo;
 				
@@ -212,7 +212,7 @@ function pearlchart(nameIndic, selectedCou,compCou,indicData){
 					formatUnit = d3.format(".2f")
 
 				if (evoUnitTooltip == "percentage points")
-					formatEvo = d3.format(".2%")
+					formatEvo = d3.format(".2f");
 				else
 					formatEvo = d3.format(".2f")
 
@@ -221,11 +221,14 @@ function pearlchart(nameIndic, selectedCou,compCou,indicData){
 				else
 					unitTooltip = unitValue;
 				if (evoValue!=""){
-					console.log('efes')
-					if (evoValue[0].value != "NA")
-						tooltip.html("<b>" + d.Country + "</b><br>" + formatUnit(d.value) + " " + unitTooltip + " (" + evoYear[0].value + ")" + "<br><i> " + evoPeriod + ": </i>" + formatEvo(evoValue[0].value) + " " + evoUnitTooltip);
-					else
+					if (evoValue[0].value != "NA"){
+						if (evoUnitTooltip == "percentage points")
+							tooltip.html("<b>" + d.Country + "</b><br>" + formatUnit(d.value) + " " + unitTooltip + " (" + evoYear[0].value + ")" + "<br><i> " + evoPeriod + ": </i>" + formatEvo(100*evoValue[0].value) + " " + evoUnitTooltip);
+						else
+							tooltip.html("<b>" + d.Country + "</b><br>" + formatUnit(d.value) + " " + unitTooltip + " (" + evoYear[0].value + ")" + "<br><i> " + evoPeriod + ": </i>" + formatEvo(evoValue[0].value) + " " + evoUnitTooltip);
+					}else{
 						tooltip.html("<b>" + d.Country + "</b><br>" + formatUnit(d.value) + " " + unitTooltip + " <i>(" + evoYear[0].value + ")</i>");
+					}
 				}
 				else
 					tooltip.html("<b>" + d.Country + "</b><br>" + formatUnit(d.value) + " " + unitTooltip + " <i>(" + evoYear[0].value + ")</i>");

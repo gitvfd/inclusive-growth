@@ -67,12 +67,12 @@ Netherlands	Evo_Indicator_1_1	-0.0071
 Norway	Evo_Indicator_1_1	-0.0091
 New Zealand	Evo_Indicator_1_1	-0.0086
 Poland	Evo_Indicator_1_1	-0.0109
-Portugal	Evo_Indicator_1_1	-8e-04
+Portugal	Evo_Indicator_1_1	-8.00E-04
 Slovak Republic	Evo_Indicator_1_1	-0.0375
 Slovenia	Evo_Indicator_1_1	-0.0268
 Sweden	Evo_Indicator_1_1	-0.0151
 Turkey	Evo_Indicator_1_1	0.0085
-United States	Evo_Indicator_1_1	-9e-04
+United States	Evo_Indicator_1_1	-9.00E-04
 OECD	Year_Indicator_1_1	2011-2017
 Australia	Year_Indicator_1_1	2011-2017
 Austria	Year_Indicator_1_1	2011-2017
@@ -112,14 +112,14 @@ Turkey	Year_Indicator_1_1	2011-2017
 United States	Year_Indicator_1_1	2011-2017
 OECD	Indicator_1_2	0.0147
 Australia	Indicator_1_2	0.0114
-Austria	Indicator_1_2	-4e-04
+Austria	Indicator_1_2	-4.00E-04
 Belgium	Indicator_1_2	0.0146
 Canada	Indicator_1_2	0.0116
 Switzerland	Indicator_1_2	NA
 Chile	Indicator_1_2	0.0574
 Czech Republic	Indicator_1_2	0.0132
 Germany	Indicator_1_2	0.0127
-Denmark	Indicator_1_2	4e-04
+Denmark	Indicator_1_2	4.00E-04
 Spain	Indicator_1_2	-0.0134
 Estonia	Indicator_1_2	NA
 Finland	Indicator_1_2	-0.0017
@@ -338,7 +338,7 @@ Austria	Indicator_1_4	0.0101
 Belgium	Indicator_1_4	0.0568
 Canada	Indicator_1_4	0.0336
 Switzerland	Indicator_1_4	NA
-Chile	Indicator_1_4	-1e-04
+Chile	Indicator_1_4	-1.00E-04
 Czech Republic	Indicator_1_4	NA
 Germany	Indicator_1_4	0.0054
 Denmark	Indicator_1_4	-0.0865
@@ -357,7 +357,7 @@ Japan	Indicator_1_4	NA
 Korea	Indicator_1_4	0.0599
 Lithuania	Indicator_1_4	NA
 Luxembourg	Indicator_1_4	0.0388
-Latvia	Indicator_1_4	-2e-04
+Latvia	Indicator_1_4	-2.00E-04
 Mexico	Indicator_1_4	NA
 Netherlands	Indicator_1_4	-0.0688
 Norway	Indicator_1_4	-0.03
@@ -393,7 +393,7 @@ Italy	Evo_Indicator_1_4	-0.0031
 Japan	Evo_Indicator_1_4	NA
 Korea	Evo_Indicator_1_4	NA
 Lithuania	Evo_Indicator_1_4	NA
-Luxembourg	Evo_Indicator_1_4	3e-04
+Luxembourg	Evo_Indicator_1_4	3.00E-04
 Latvia	Evo_Indicator_1_4	NA
 Mexico	Evo_Indicator_1_4	NA
 Netherlands	Evo_Indicator_1_4	NA
@@ -554,80 +554,80 @@ Slovenia	Year_Indicator_1_5	latest
 Sweden	Year_Indicator_1_5	latest
 Turkey	Year_Indicator_1_5	latest
 United States	Year_Indicator_1_5	latest
-OECD	Indicator_1_6	378.0984
-Australia	Indicator_1_6	199.6141
-Austria	Indicator_1_6	401.418
-Belgium	Indicator_1_6	442.6565
-Canada	Indicator_1_6	216.7248
-Switzerland	Indicator_1_6	274.5329
-Chile	Indicator_1_6	279.3115
-Czech Republic	Indicator_1_6	597.3104
-Germany	Indicator_1_6	512.2252
-Denmark	Indicator_1_6	419.2939
-Spain	Indicator_1_6	369.5181
-Estonia	Indicator_1_6	259.1487
-Finland	Indicator_1_6	202.4156
-France	Indicator_1_6	295.0808
-United Kingdom	Indicator_1_6	374.8713
-Greece	Indicator_1_6	628.874
-Hungary	Indicator_1_6	649.1384
-Ireland	Indicator_1_6	232.5816
-Iceland	Indicator_1_6	175.9083
-Israel	Indicator_1_6	316.3624
-Italy	Indicator_1_6	501.0524
-Japan	Indicator_1_6	395.3967
-Korea	Indicator_1_6	346.8808
-Lithuania	Indicator_1_6	693.4509
-Luxembourg	Indicator_1_6	291.2838
-Latvia	Indicator_1_6	659.2673
-Mexico	Indicator_1_6	289.3045
-Netherlands	Indicator_1_6	400.6074
-Norway	Indicator_1_6	217.1018
-New Zealand	Indicator_1_6	146.3793
-Poland	Indicator_1_6	589.9824
-Portugal	Indicator_1_6	410.2712
-Slovak Republic	Indicator_1_6	555.8839
-Slovenia	Indicator_1_6	412.479
-Sweden	Indicator_1_6	226.2218
-Turkey	Indicator_1_6	504.3121
-United States	Indicator_1_6	337.8838
-OECD	Evo_Indicator_1_6	-19.2403
-Australia	Evo_Indicator_1_6	-24.0249
-Austria	Evo_Indicator_1_6	-46.743
-Belgium	Evo_Indicator_1_6	-68.8816
-Canada	Evo_Indicator_1_6	-45.1493
-Switzerland	Evo_Indicator_1_6	-63.6121
-Chile	Evo_Indicator_1_6	10.2073
-Czech Republic	Evo_Indicator_1_6	-30.2546
-Germany	Evo_Indicator_1_6	-21.1592
-Denmark	Evo_Indicator_1_6	-58.8493
-Spain	Evo_Indicator_1_6	-5.9221
-Estonia	Evo_Indicator_1_6	-68.529
-Finland	Evo_Indicator_1_6	-54.8395
-France	Evo_Indicator_1_6	-36.7015
-United Kingdom	Evo_Indicator_1_6	-38.6266
-Greece	Evo_Indicator_1_6	34.8148
-Hungary	Evo_Indicator_1_6	-74.5902
-Ireland	Evo_Indicator_1_6	-13.0795
-Iceland	Evo_Indicator_1_6	-21.8774
-Israel	Evo_Indicator_1_6	-9.1193
-Italy	Evo_Indicator_1_6	-7.9986
-Japan	Evo_Indicator_1_6	1.2522
-Korea	Evo_Indicator_1_6	26.6635
-Lithuania	Evo_Indicator_1_6	-38.5459
-Luxembourg	Evo_Indicator_1_6	-49.9344
-Latvia	Evo_Indicator_1_6	-86.3257
-Mexico	Evo_Indicator_1_6	22.0137
-Netherlands	Evo_Indicator_1_6	-32.1236
-Norway	Evo_Indicator_1_6	-76.87
-New Zealand	Evo_Indicator_1_6	-34.206
-Poland	Evo_Indicator_1_6	-44.9246
-Portugal	Evo_Indicator_1_6	-26.3697
-Slovak Republic	Evo_Indicator_1_6	-77.5357
-Slovenia	Evo_Indicator_1_6	-3.0702
-Sweden	Evo_Indicator_1_6	-62.9744
-Turkey	Evo_Indicator_1_6	16.0475
-United States	Evo_Indicator_1_6	-33.11
+OECD	Indicator_1_6	378
+Australia	Indicator_1_6	200
+Austria	Indicator_1_6	401
+Belgium	Indicator_1_6	443
+Canada	Indicator_1_6	217
+Switzerland	Indicator_1_6	275
+Chile	Indicator_1_6	279
+Czech Republic	Indicator_1_6	597
+Germany	Indicator_1_6	512
+Denmark	Indicator_1_6	419
+Spain	Indicator_1_6	370
+Estonia	Indicator_1_6	259
+Finland	Indicator_1_6	202
+France	Indicator_1_6	295
+United Kingdom	Indicator_1_6	375
+Greece	Indicator_1_6	629
+Hungary	Indicator_1_6	649
+Ireland	Indicator_1_6	233
+Iceland	Indicator_1_6	176
+Israel	Indicator_1_6	316
+Italy	Indicator_1_6	501
+Japan	Indicator_1_6	395
+Korea	Indicator_1_6	347
+Lithuania	Indicator_1_6	693
+Luxembourg	Indicator_1_6	291
+Latvia	Indicator_1_6	659
+Mexico	Indicator_1_6	289
+Netherlands	Indicator_1_6	401
+Norway	Indicator_1_6	217
+New Zealand	Indicator_1_6	146
+Poland	Indicator_1_6	590
+Portugal	Indicator_1_6	410
+Slovak Republic	Indicator_1_6	556
+Slovenia	Indicator_1_6	412
+Sweden	Indicator_1_6	226
+Turkey	Indicator_1_6	504
+United States	Indicator_1_6	338
+OECD	Evo_Indicator_1_6	-19
+Australia	Evo_Indicator_1_6	-24
+Austria	Evo_Indicator_1_6	-47
+Belgium	Evo_Indicator_1_6	-69
+Canada	Evo_Indicator_1_6	-45
+Switzerland	Evo_Indicator_1_6	-64
+Chile	Evo_Indicator_1_6	10
+Czech Republic	Evo_Indicator_1_6	-30
+Germany	Evo_Indicator_1_6	-21
+Denmark	Evo_Indicator_1_6	-59
+Spain	Evo_Indicator_1_6	-6
+Estonia	Evo_Indicator_1_6	-69
+Finland	Evo_Indicator_1_6	-55
+France	Evo_Indicator_1_6	-37
+United Kingdom	Evo_Indicator_1_6	-39
+Greece	Evo_Indicator_1_6	35
+Hungary	Evo_Indicator_1_6	-75
+Ireland	Evo_Indicator_1_6	-13
+Iceland	Evo_Indicator_1_6	-22
+Israel	Evo_Indicator_1_6	-9
+Italy	Evo_Indicator_1_6	-8
+Japan	Evo_Indicator_1_6	1
+Korea	Evo_Indicator_1_6	27
+Lithuania	Evo_Indicator_1_6	-39
+Luxembourg	Evo_Indicator_1_6	-50
+Latvia	Evo_Indicator_1_6	-86
+Mexico	Evo_Indicator_1_6	22
+Netherlands	Evo_Indicator_1_6	-32
+Norway	Evo_Indicator_1_6	-77
+New Zealand	Evo_Indicator_1_6	-34
+Poland	Evo_Indicator_1_6	-45
+Portugal	Evo_Indicator_1_6	-26
+Slovak Republic	Evo_Indicator_1_6	-78
+Slovenia	Evo_Indicator_1_6	-3
+Sweden	Evo_Indicator_1_6	-63
+Turkey	Evo_Indicator_1_6	16
+United States	Evo_Indicator_1_6	-33
 OECD	Year_Indicator_1_6	latest
 Australia	Year_Indicator_1_6	latest
 Austria	Year_Indicator_1_6	latest
@@ -735,10 +735,10 @@ New Zealand	Evo_Indicator_1_7	0.011
 Poland	Evo_Indicator_1_7	-0.0032
 Portugal	Evo_Indicator_1_7	0.0103
 Slovak Republic	Evo_Indicator_1_7	0.0027
-Slovenia	Evo_Indicator_1_7	9e-04
+Slovenia	Evo_Indicator_1_7	9.00E-04
 Sweden	Evo_Indicator_1_7	-0.0065
 Turkey	Evo_Indicator_1_7	-0.0147
-United States	Evo_Indicator_1_7	-7e-04
+United States	Evo_Indicator_1_7	-7.00E-04
 OECD	Year_Indicator_1_7	2016 or latest
 Australia	Year_Indicator_1_7	2016 or latest
 Austria	Year_Indicator_1_7	2016 or latest
@@ -800,7 +800,7 @@ Italy	Indicator_2_1	0.0018
 Japan	Indicator_2_1	0.0097
 Korea	Indicator_2_1	0.022
 Lithuania	Indicator_2_1	0.0203
-Luxembourg	Indicator_2_1	4e-04
+Luxembourg	Indicator_2_1	4.00E-04
 Latvia	Indicator_2_1	0.0299
 Mexico	Indicator_2_1	0.0069
 Netherlands	Indicator_2_1	0.0066
@@ -817,7 +817,7 @@ OECD	Evo_Indicator_2_1	-0.0152
 Australia	Evo_Indicator_2_1	0.0043
 Austria	Evo_Indicator_2_1	-0.0128
 Belgium	Evo_Indicator_2_1	-0.0114
-Canada	Evo_Indicator_2_1	-3e-04
+Canada	Evo_Indicator_2_1	-3.00E-04
 Switzerland	Evo_Indicator_2_1	-0.0065
 Chile	Evo_Indicator_2_1	-0.015
 Czech Republic	Evo_Indicator_2_1	-0.0287
@@ -841,7 +841,7 @@ Luxembourg	Evo_Indicator_2_1	-0.014
 Latvia	Evo_Indicator_2_1	-0.0515
 Mexico	Evo_Indicator_2_1	0.0019
 Netherlands	Evo_Indicator_2_1	-0.0078
-Norway	Evo_Indicator_2_1	9e-04
+Norway	Evo_Indicator_2_1	9.00E-04
 New Zealand	Evo_Indicator_2_1	-0.012
 Poland	Evo_Indicator_2_1	-0.0124
 Portugal	Evo_Indicator_2_1	-0.0116
@@ -887,80 +887,80 @@ Slovenia	Year_Indicator_2_1	2011-2017 or latest
 Sweden	Year_Indicator_2_1	2011-2017 or latest
 Turkey	Year_Indicator_2_1	2011-2017 or latest
 United States	Year_Indicator_2_1	2011-2017 or latest
-OECD	Indicator_2_2	57.43
-Australia	Indicator_2_2	61.1
-Austria	Indicator_2_2	57.5
-Belgium	Indicator_2_2	48.9
-Canada	Indicator_2_2	61.1
-Switzerland	Indicator_2_2	65.2
-Chile	Indicator_2_2	55.6
-Czech Republic	Indicator_2_2	57.6
-Germany	Indicator_2_2	58.4
-Denmark	Indicator_2_2	59.6
-Spain	Indicator_2_2	47.6
-Estonia	Indicator_2_2	65.9
-Finland	Indicator_2_2	60
-France	Indicator_2_2	50.6
-United Kingdom	Indicator_2_2	60.4
-Greece	Indicator_2_2	39.8
-Hungary	Indicator_2_2	58
-Ireland	Indicator_2_2	55.3
-Iceland	Indicator_2_2	81.1
-Israel	Indicator_2_2	61.1
-Italy	Indicator_2_2	43.7
-Japan	Indicator_2_2	58.2
-Korea	Indicator_2_2	60.4
-Lithuania	Indicator_2_2	55.5
-Luxembourg	Indicator_2_2	55.3
-Latvia	Indicator_2_2	54.6
-Mexico	Indicator_2_2	57.4
-Netherlands	Indicator_2_2	60.2
-Norway	Indicator_2_2	67.3
-New Zealand	Indicator_2_2	66.2
-Poland	Indicator_2_2	52.7
-Portugal	Indicator_2_2	52
-Slovak Republic	Indicator_2_2	54.2
-Slovenia	Indicator_2_2	52
-Sweden	Indicator_2_2	67.1
-Turkey	Indicator_2_2	46.3
-United States	Indicator_2_2	59.7
-OECD	Evo_Indicator_2_2	1.44
-Australia	Evo_Indicator_2_2	-1
-Austria	Evo_Indicator_2_2	-0.2
-Belgium	Evo_Indicator_2_2	-0.5
-Canada	Evo_Indicator_2_2	-0.6
-Switzerland	Evo_Indicator_2_2	0.7
-Chile	Evo_Indicator_2_2	0.1
-Czech Republic	Evo_Indicator_2_2	3.2
-Germany	Evo_Indicator_2_2	1.8
-Denmark	Evo_Indicator_2_2	0.5
-Spain	Evo_Indicator_2_2	0.2
-Estonia	Evo_Indicator_2_2	6.5
-Finland	Evo_Indicator_2_2	-1.5
-France	Evo_Indicator_2_2	-0.7
-United Kingdom	Evo_Indicator_2_2	2.4
-Greece	Evo_Indicator_2_2	-3.5
-Hungary	Evo_Indicator_2_2	8.9
-Ireland	Evo_Indicator_2_2	3.6
-Iceland	Evo_Indicator_2_2	6.4
-Israel	Evo_Indicator_2_2	2.5
-Italy	Evo_Indicator_2_2	-0.4
-Japan	Evo_Indicator_2_2	1.6
-Korea	Evo_Indicator_2_2	1.3
-Lithuania	Evo_Indicator_2_2	6.9
-Luxembourg	Evo_Indicator_2_2	0.5
-Latvia	Evo_Indicator_2_2	5.6
-Mexico	Evo_Indicator_2_2	0.7
-Netherlands	Evo_Indicator_2_2	-1.7
-Norway	Evo_Indicator_2_2	-1.8
-New Zealand	Evo_Indicator_2_2	2.3
-Poland	Evo_Indicator_2_2	2.5
-Portugal	Evo_Indicator_2_2	-0.8
-Slovak Republic	Evo_Indicator_2_2	3.4
-Slovenia	Evo_Indicator_2_2	-1.2
-Sweden	Evo_Indicator_2_2	1.7
-Turkey	Evo_Indicator_2_2	1.3
-United States	Evo_Indicator_2_2	1.3
+OECD	Indicator_2_2	0.5743
+Australia	Indicator_2_2	0.611
+Austria	Indicator_2_2	0.575
+Belgium	Indicator_2_2	0.489
+Canada	Indicator_2_2	0.611
+Switzerland	Indicator_2_2	0.652
+Chile	Indicator_2_2	0.556
+Czech Republic	Indicator_2_2	0.576
+Germany	Indicator_2_2	0.584
+Denmark	Indicator_2_2	0.596
+Spain	Indicator_2_2	0.476
+Estonia	Indicator_2_2	0.659
+Finland	Indicator_2_2	0.6
+France	Indicator_2_2	0.506
+United Kingdom	Indicator_2_2	0.604
+Greece	Indicator_2_2	0.398
+Hungary	Indicator_2_2	0.58
+Ireland	Indicator_2_2	0.553
+Iceland	Indicator_2_2	0.811
+Israel	Indicator_2_2	0.611
+Italy	Indicator_2_2	0.437
+Japan	Indicator_2_2	0.582
+Korea	Indicator_2_2	0.604
+Lithuania	Indicator_2_2	0.555
+Luxembourg	Indicator_2_2	0.553
+Latvia	Indicator_2_2	0.546
+Mexico	Indicator_2_2	0.574
+Netherlands	Indicator_2_2	0.602
+Norway	Indicator_2_2	0.673
+New Zealand	Indicator_2_2	0.662
+Poland	Indicator_2_2	0.527
+Portugal	Indicator_2_2	0.52
+Slovak Republic	Indicator_2_2	0.542
+Slovenia	Indicator_2_2	0.52
+Sweden	Indicator_2_2	0.671
+Turkey	Indicator_2_2	0.463
+United States	Indicator_2_2	0.597
+OECD	Evo_Indicator_2_2	0.0144
+Australia	Evo_Indicator_2_2	-0.01
+Austria	Evo_Indicator_2_2	-0.002
+Belgium	Evo_Indicator_2_2	-0.005
+Canada	Evo_Indicator_2_2	-0.006
+Switzerland	Evo_Indicator_2_2	0.007
+Chile	Evo_Indicator_2_2	0.001
+Czech Republic	Evo_Indicator_2_2	0.032
+Germany	Evo_Indicator_2_2	0.018
+Denmark	Evo_Indicator_2_2	0.005
+Spain	Evo_Indicator_2_2	0.002
+Estonia	Evo_Indicator_2_2	0.065
+Finland	Evo_Indicator_2_2	-0.015
+France	Evo_Indicator_2_2	-0.007
+United Kingdom	Evo_Indicator_2_2	0.024
+Greece	Evo_Indicator_2_2	-0.035
+Hungary	Evo_Indicator_2_2	0.089
+Ireland	Evo_Indicator_2_2	0.036
+Iceland	Evo_Indicator_2_2	0.064
+Israel	Evo_Indicator_2_2	0.025
+Italy	Evo_Indicator_2_2	-0.004
+Japan	Evo_Indicator_2_2	0.016
+Korea	Evo_Indicator_2_2	0.013
+Lithuania	Evo_Indicator_2_2	0.069
+Luxembourg	Evo_Indicator_2_2	0.005
+Latvia	Evo_Indicator_2_2	0.056
+Mexico	Evo_Indicator_2_2	0.007
+Netherlands	Evo_Indicator_2_2	-0.017
+Norway	Evo_Indicator_2_2	-0.018
+New Zealand	Evo_Indicator_2_2	0.023
+Poland	Evo_Indicator_2_2	0.025
+Portugal	Evo_Indicator_2_2	-0.008
+Slovak Republic	Evo_Indicator_2_2	0.034
+Slovenia	Evo_Indicator_2_2	-0.012
+Sweden	Evo_Indicator_2_2	0.017
+Turkey	Evo_Indicator_2_2	0.013
+United States	Evo_Indicator_2_2	0.013
 OECD	Year_Indicator_2_2	2016
 Australia	Year_Indicator_2_2	2016
 Austria	Year_Indicator_2_2	2016
@@ -1109,80 +1109,80 @@ Slovenia	Year_Indicator_2_3	2014
 Sweden	Year_Indicator_2_3	2013
 Turkey	Year_Indicator_2_3	2014
 United States	Year_Indicator_2_3	2017
-OECD	Indicator_2_4	13.55523
-Australia	Indicator_2_4	14.28631
-Austria	Indicator_2_4	15.6709
-Belgium	Indicator_2_4	3.7013
-Canada	Indicator_2_4	18.17322
-Switzerland	Indicator_2_4	14.76237
-Chile	Indicator_2_4	21.05263
-Czech Republic	Indicator_2_4	16.02343
-Germany	Indicator_2_4	15.51072
-Denmark	Indicator_2_4	6.32387
-Spain	Indicator_2_4	11.5405
-Estonia	Indicator_2_4	28.33935
-Finland	Indicator_2_4	16.47226
-France	Indicator_2_4	9.8721
-United Kingdom	Indicator_2_4	17.38274
-Greece	Indicator_2_4	4.48505
-Hungary	Indicator_2_4	9.36432
-Ireland	Indicator_2_4	10.61174
-Iceland	Indicator_2_4	9.9314
-Israel	Indicator_2_4	21.59333
-Italy	Indicator_2_4	5.55556
-Japan	Indicator_2_4	24.51809
-Korea	Indicator_2_4	34.61738
-Lithuania	Indicator_2_4	12.47974
-Luxembourg	Indicator_2_4	3.40292
-Latvia	Indicator_2_4	21.12299
-Mexico	Indicator_2_4	11.11111
-Netherlands	Indicator_2_4	14.11468
-Norway	Indicator_2_4	7.12468
-New Zealand	Indicator_2_4	7.76923
-Poland	Indicator_2_4	9.41788
-Portugal	Indicator_2_4	14.28571
-Slovak Republic	Indicator_2_4	13.89918
-Slovenia	Indicator_2_4	4.99627
-Sweden	Indicator_2_4	13.42049
-Turkey	Indicator_2_4	6.88259
-United States	Indicator_2_4	18.17216
-OECD	Evo_Indicator_2_4	-1.182826403
-Australia	Evo_Indicator_2_4	-1.680076
-Austria	Evo_Indicator_2_4	-2.879654475
-Belgium	Evo_Indicator_2_4	-2.136810181
-Canada	Evo_Indicator_2_4	-1.002309525
-Switzerland	Evo_Indicator_2_4	-4.936188825
-Chile	Evo_Indicator_2_4	5.052631579
-Czech Republic	Evo_Indicator_2_4	-0.30622586
-Germany	Evo_Indicator_2_4	-1.433725655
-Denmark	Evo_Indicator_2_4	-1.623331559
-Spain	Evo_Indicator_2_4	-1.963966668
-Estonia	Evo_Indicator_2_4	0.541516246
-Finland	Evo_Indicator_2_4	-2.135358725
-France	Evo_Indicator_2_4	-17.92573162
-United Kingdom	Evo_Indicator_2_4	-0.863262632
-Greece	Evo_Indicator_2_4	-6.22923588
-Hungary	Evo_Indicator_2_4	2.500411855
-Ireland	Evo_Indicator_2_4	0.16488278
-Iceland	Evo_Indicator_2_4	-4.148409474
-Israel	Evo_Indicator_2_4	1.933665133
-Italy	Evo_Indicator_2_4	-4.97016774
-Japan	Evo_Indicator_2_4	-2.877272265
-Korea	Evo_Indicator_2_4	-1.946846943
-Lithuania	Evo_Indicator_2_4	1.8371704
-Luxembourg	Evo_Indicator_2_4	-1.189247633
-Latvia	Evo_Indicator_2_4	2.067345411
-Mexico	Evo_Indicator_2_4	1.111111111
-Netherlands	Evo_Indicator_2_4	-3.77446524
-Norway	Evo_Indicator_2_4	-0.656297893
-New Zealand	Evo_Indicator_2_4	3.235897436
-Poland	Evo_Indicator_2_4	0.512699777
-Portugal	Evo_Indicator_2_4	-0.962408266
-Slovak Republic	Evo_Indicator_2_4	-1.550674286
-Slovenia	Evo_Indicator_2_4	4.004535902
-Sweden	Evo_Indicator_2_4	-2.514024761
-Turkey	Evo_Indicator_2_4	3.778378233
-United States	Evo_Indicator_2_4	0.383695741
+OECD	Indicator_2_4	0.1355523
+Australia	Indicator_2_4	0.1428631
+Austria	Indicator_2_4	0.156709
+Belgium	Indicator_2_4	0.037013
+Canada	Indicator_2_4	0.1817322
+Switzerland	Indicator_2_4	0.1476237
+Chile	Indicator_2_4	0.2105263
+Czech Republic	Indicator_2_4	0.1602343
+Germany	Indicator_2_4	0.1551072
+Denmark	Indicator_2_4	0.0632387
+Spain	Indicator_2_4	0.115405
+Estonia	Indicator_2_4	0.2833935
+Finland	Indicator_2_4	0.1647226
+France	Indicator_2_4	0.098721
+United Kingdom	Indicator_2_4	0.1738274
+Greece	Indicator_2_4	0.0448505
+Hungary	Indicator_2_4	0.0936432
+Ireland	Indicator_2_4	0.1061174
+Iceland	Indicator_2_4	0.099314
+Israel	Indicator_2_4	0.2159333
+Italy	Indicator_2_4	0.0555556
+Japan	Indicator_2_4	0.2451809
+Korea	Indicator_2_4	0.3461738
+Lithuania	Indicator_2_4	0.1247974
+Luxembourg	Indicator_2_4	0.0340292
+Latvia	Indicator_2_4	0.2112299
+Mexico	Indicator_2_4	0.1111111
+Netherlands	Indicator_2_4	0.1411468
+Norway	Indicator_2_4	0.0712468
+New Zealand	Indicator_2_4	0.0776923
+Poland	Indicator_2_4	0.0941788
+Portugal	Indicator_2_4	0.1428571
+Slovak Republic	Indicator_2_4	0.1389918
+Slovenia	Indicator_2_4	0.0499627
+Sweden	Indicator_2_4	0.1342049
+Turkey	Indicator_2_4	0.0688259
+United States	Indicator_2_4	0.1817216
+OECD	Evo_Indicator_2_4	-0.011828264
+Australia	Evo_Indicator_2_4	-0.01680076
+Austria	Evo_Indicator_2_4	-0.028796545
+Belgium	Evo_Indicator_2_4	-0.021368102
+Canada	Evo_Indicator_2_4	-0.010023095
+Switzerland	Evo_Indicator_2_4	-0.049361888
+Chile	Evo_Indicator_2_4	0.050526316
+Czech Republic	Evo_Indicator_2_4	-0.003062259
+Germany	Evo_Indicator_2_4	-0.014337257
+Denmark	Evo_Indicator_2_4	-0.016233316
+Spain	Evo_Indicator_2_4	-0.019639667
+Estonia	Evo_Indicator_2_4	0.005415162
+Finland	Evo_Indicator_2_4	-0.021353587
+France	Evo_Indicator_2_4	-0.179257316
+United Kingdom	Evo_Indicator_2_4	-0.008632626
+Greece	Evo_Indicator_2_4	-0.062292359
+Hungary	Evo_Indicator_2_4	0.025004119
+Ireland	Evo_Indicator_2_4	0.001648828
+Iceland	Evo_Indicator_2_4	-0.041484095
+Israel	Evo_Indicator_2_4	0.019336651
+Italy	Evo_Indicator_2_4	-0.049701677
+Japan	Evo_Indicator_2_4	-0.028772723
+Korea	Evo_Indicator_2_4	-0.019468469
+Lithuania	Evo_Indicator_2_4	0.018371704
+Luxembourg	Evo_Indicator_2_4	-0.011892476
+Latvia	Evo_Indicator_2_4	0.020673454
+Mexico	Evo_Indicator_2_4	0.011111111
+Netherlands	Evo_Indicator_2_4	-0.037744652
+Norway	Evo_Indicator_2_4	-0.006562979
+New Zealand	Evo_Indicator_2_4	0.032358974
+Poland	Evo_Indicator_2_4	0.005126998
+Portugal	Evo_Indicator_2_4	-0.009624083
+Slovak Republic	Evo_Indicator_2_4	-0.015506743
+Slovenia	Evo_Indicator_2_4	0.040045359
+Sweden	Evo_Indicator_2_4	-0.025140248
+Turkey	Evo_Indicator_2_4	0.037783782
+United States	Evo_Indicator_2_4	0.003836957
 OECD	Year_Indicator_2_4	2017 or latest
 Australia	Year_Indicator_2_4	2017 or latest
 Austria	Year_Indicator_2_4	2017 or latest
@@ -1220,80 +1220,80 @@ Slovenia	Year_Indicator_2_4	2017 or latest
 Sweden	Year_Indicator_2_4	2013
 Turkey	Year_Indicator_2_4	2017 or latest
 United States	Year_Indicator_2_4	2017 or latest
-OECD	Indicator_2_5	4.15531
-Australia	Indicator_2_5	9.10705
-Austria	Indicator_2_5	3.40569
-Belgium	Indicator_2_5	1.87633
-Canada	Indicator_2_5	4.63167
-Switzerland	Indicator_2_5	3.00839
-Chile	Indicator_2_5	9.85691
-Czech Republic	Indicator_2_5	0.79836
-Germany	Indicator_2_5	2.96701
-Denmark	Indicator_2_5	3.48384
-Spain	Indicator_2_5	9.28245
-Estonia	Indicator_2_5	0.76752
-Finland	Indicator_2_5	4.16022
-France	Indicator_2_5	7.86201
-United Kingdom	Indicator_2_5	3.46607
-Greece	Indicator_2_5	6.64897
-Hungary	Indicator_2_5	1.15122
-Ireland	Indicator_2_5	4.70322
-Iceland	Indicator_2_5	3.04186
-Israel	Indicator_2_5	2.34056
-Italy	Indicator_2_5	11.39167
-Japan	Indicator_2_5	3.96838
+OECD	Indicator_2_5	0.0415531
+Australia	Indicator_2_5	0.0910705
+Austria	Indicator_2_5	0.0340569
+Belgium	Indicator_2_5	0.0187633
+Canada	Indicator_2_5	0.0463167
+Switzerland	Indicator_2_5	0.0300839
+Chile	Indicator_2_5	0.0985691
+Czech Republic	Indicator_2_5	0.0079836
+Germany	Indicator_2_5	0.0296701
+Denmark	Indicator_2_5	0.0348384
+Spain	Indicator_2_5	0.0928245
+Estonia	Indicator_2_5	0.0076752
+Finland	Indicator_2_5	0.0416022
+France	Indicator_2_5	0.0786201
+United Kingdom	Indicator_2_5	0.0346607
+Greece	Indicator_2_5	0.0664897
+Hungary	Indicator_2_5	0.0115122
+Ireland	Indicator_2_5	0.0470322
+Iceland	Indicator_2_5	0.0304186
+Israel	Indicator_2_5	0.0234056
+Italy	Indicator_2_5	0.1139167
+Japan	Indicator_2_5	0.0396838
 Korea	Indicator_2_5	NA
-Lithuania	Indicator_2_5	2.40713
-Luxembourg	Indicator_2_5	2.58049
-Latvia	Indicator_2_5	2.67838
+Lithuania	Indicator_2_5	0.0240713
+Luxembourg	Indicator_2_5	0.0258049
+Latvia	Indicator_2_5	0.0267838
 Mexico	Indicator_2_5	NA
-Netherlands	Indicator_2_5	3.47944
-Norway	Indicator_2_5	1.36846
-New Zealand	Indicator_2_5	5.42856
-Poland	Indicator_2_5	1.35683
-Portugal	Indicator_2_5	4.12059
-Slovak Republic	Indicator_2_5	3.29438
-Slovenia	Indicator_2_5	1.08598
-Sweden	Indicator_2_5	5.4728
-Turkey	Indicator_2_5	1.24091
-United States	Indicator_2_5	1.12651
-OECD	Evo_Indicator_2_5	0.096968659
-Australia	Evo_Indicator_2_5	1.749191262
-Austria	Evo_Indicator_2_5	0.95044406
-Belgium	Evo_Indicator_2_5	-0.642922835
-Canada	Evo_Indicator_2_5	-0.609487512
-Switzerland	Evo_Indicator_2_5	0.636987772
-Chile	Evo_Indicator_2_5	-1.265919255
-Czech Republic	Evo_Indicator_2_5	-0.301168299
-Germany	Evo_Indicator_2_5	-1.066800214
-Denmark	Evo_Indicator_2_5	-0.545471206
-Spain	Evo_Indicator_2_5	1.335172649
-Estonia	Evo_Indicator_2_5	-1.288196464
-Finland	Evo_Indicator_2_5	0.850223097
-France	Evo_Indicator_2_5	2.700308918
-United Kingdom	Evo_Indicator_2_5	-1.198284366
-Greece	Evo_Indicator_2_5	2.786435804
-Hungary	Evo_Indicator_2_5	-1.391992579
-Ireland	Evo_Indicator_2_5	-3.343975107
-Iceland	Evo_Indicator_2_5	-1.92017333
-Israel	Evo_Indicator_2_5	-1.355838014
-Italy	Evo_Indicator_2_5	3.232188553
-Japan	Evo_Indicator_2_5	-1.799860897
+Netherlands	Indicator_2_5	0.0347944
+Norway	Indicator_2_5	0.0136846
+New Zealand	Indicator_2_5	0.0542856
+Poland	Indicator_2_5	0.0135683
+Portugal	Indicator_2_5	0.0412059
+Slovak Republic	Indicator_2_5	0.0329438
+Slovenia	Indicator_2_5	0.0108598
+Sweden	Indicator_2_5	0.054728
+Turkey	Indicator_2_5	0.0124091
+United States	Indicator_2_5	0.0112651
+OECD	Evo_Indicator_2_5	0.000969687
+Australia	Evo_Indicator_2_5	0.017491913
+Austria	Evo_Indicator_2_5	0.009504441
+Belgium	Evo_Indicator_2_5	-0.006429228
+Canada	Evo_Indicator_2_5	-0.006094875
+Switzerland	Evo_Indicator_2_5	0.006369878
+Chile	Evo_Indicator_2_5	-0.012659193
+Czech Republic	Evo_Indicator_2_5	-0.003011683
+Germany	Evo_Indicator_2_5	-0.010668002
+Denmark	Evo_Indicator_2_5	-0.005454712
+Spain	Evo_Indicator_2_5	0.013351726
+Estonia	Evo_Indicator_2_5	-0.012881965
+Finland	Evo_Indicator_2_5	0.008502231
+France	Evo_Indicator_2_5	0.027003089
+United Kingdom	Evo_Indicator_2_5	-0.011982844
+Greece	Evo_Indicator_2_5	0.027864358
+Hungary	Evo_Indicator_2_5	-0.013919926
+Ireland	Evo_Indicator_2_5	-0.033439751
+Iceland	Evo_Indicator_2_5	-0.019201733
+Israel	Evo_Indicator_2_5	-0.01355838
+Italy	Evo_Indicator_2_5	0.032321886
+Japan	Evo_Indicator_2_5	-0.017998609
 Korea	Evo_Indicator_2_5	NA
-Lithuania	Evo_Indicator_2_5	-0.679987203
-Luxembourg	Evo_Indicator_2_5	0.884342944
-Latvia	Evo_Indicator_2_5	-1.002332831
+Lithuania	Evo_Indicator_2_5	-0.006799872
+Luxembourg	Evo_Indicator_2_5	0.008843429
+Latvia	Evo_Indicator_2_5	-0.010023328
 Mexico	Evo_Indicator_2_5	NA
-Netherlands	Evo_Indicator_2_5	0.370188007
-Norway	Evo_Indicator_2_5	-0.227554484
-New Zealand	Evo_Indicator_2_5	0.908450662
-Poland	Evo_Indicator_2_5	-0.4147807
-Portugal	Evo_Indicator_2_5	-0.347575644
-Slovak Republic	Evo_Indicator_2_5	0.709980335
-Slovenia	Evo_Indicator_2_5	0.391627734
-Sweden	Evo_Indicator_2_5	-2.288999468
-Turkey	Evo_Indicator_2_5	0.432979555
-United States	Evo_Indicator_2_5	-0.670903826
+Netherlands	Evo_Indicator_2_5	0.00370188
+Norway	Evo_Indicator_2_5	-0.002275545
+New Zealand	Evo_Indicator_2_5	0.009084507
+Poland	Evo_Indicator_2_5	-0.004147807
+Portugal	Evo_Indicator_2_5	-0.003475756
+Slovak Republic	Evo_Indicator_2_5	0.007099803
+Slovenia	Evo_Indicator_2_5	0.003916277
+Sweden	Evo_Indicator_2_5	-0.022889995
+Turkey	Evo_Indicator_2_5	0.004329796
+United States	Evo_Indicator_2_5	-0.006709038
 OECD	Year_Indicator_2_5	2017
 Australia	Year_Indicator_2_5	2017
 Austria	Year_Indicator_2_5	2017
@@ -1405,80 +1405,80 @@ Slovenia	Year_Indicator_2_6	2016
 Sweden	Year_Indicator_2_6	2016
 Turkey	Year_Indicator_2_6	2016
 United States	Year_Indicator_2_6	2016
-OECD	Indicator_2_7	46.309
-Australia	Indicator_2_7	30.9
+OECD	Indicator_2_7	0.46309
+Australia	Indicator_2_7	0.309
 Austria	Indicator_2_7	NA
-Belgium	Indicator_2_7	67.05
-Canada	Indicator_2_7	12.45
-Switzerland	Indicator_2_7	76.69
-Chile	Indicator_2_7	20.67
-Czech Republic	Indicator_2_7	70.03
+Belgium	Indicator_2_7	0.6705
+Canada	Indicator_2_7	0.1245
+Switzerland	Indicator_2_7	0.7669
+Chile	Indicator_2_7	0.2067
+Czech Republic	Indicator_2_7	0.7003
 Germany	Indicator_2_7	NA
 Denmark	Indicator_2_7	NA
-Spain	Indicator_2_7	50.1
-Estonia	Indicator_2_7	26.15
+Spain	Indicator_2_7	0.501
+Estonia	Indicator_2_7	0.2615
 Finland	Indicator_2_7	NA
-France	Indicator_2_7	20.45
-United Kingdom	Indicator_2_7	35.51
-Greece	Indicator_2_7	54.39
-Hungary	Indicator_2_7	69
-Ireland	Indicator_2_7	57.04
+France	Indicator_2_7	0.2045
+United Kingdom	Indicator_2_7	0.3551
+Greece	Indicator_2_7	0.5439
+Hungary	Indicator_2_7	0.69
+Ireland	Indicator_2_7	0.5704
 Iceland	Indicator_2_7	NA
-Israel	Indicator_2_7	61.28
-Italy	Indicator_2_7	17.69
-Japan	Indicator_2_7	66.29
-Korea	Indicator_2_7	80.22
-Lithuania	Indicator_2_7	40.24
+Israel	Indicator_2_7	0.6128
+Italy	Indicator_2_7	0.1769
+Japan	Indicator_2_7	0.6629
+Korea	Indicator_2_7	0.8022
+Lithuania	Indicator_2_7	0.4024
 Luxembourg	Indicator_2_7	NA
-Latvia	Indicator_2_7	76.1
-Mexico	Indicator_2_7	34.84
-Netherlands	Indicator_2_7	38.33
-Norway	Indicator_2_7	37.96
-New Zealand	Indicator_2_7	59.98
-Poland	Indicator_2_7	56.44
-Portugal	Indicator_2_7	86.58
-Slovak Republic	Indicator_2_7	72.29
-Slovenia	Indicator_2_7	49.52
-Sweden	Indicator_2_7	39.6
-Turkey	Indicator_2_7	31.9
-United States	Indicator_2_7	17.89
-OECD	Evo_Indicator_2_7	1.31
-Australia	Evo_Indicator_2_7	-1.92
+Latvia	Indicator_2_7	0.761
+Mexico	Indicator_2_7	0.3484
+Netherlands	Indicator_2_7	0.3833
+Norway	Indicator_2_7	0.3796
+New Zealand	Indicator_2_7	0.5998
+Poland	Indicator_2_7	0.5644
+Portugal	Indicator_2_7	0.8658
+Slovak Republic	Indicator_2_7	0.7229
+Slovenia	Indicator_2_7	0.4952
+Sweden	Indicator_2_7	0.396
+Turkey	Indicator_2_7	0.319
+United States	Indicator_2_7	0.1789
+OECD	Evo_Indicator_2_7	0.0131
+Australia	Evo_Indicator_2_7	-0.0192
 Austria	Evo_Indicator_2_7	NA
-Belgium	Evo_Indicator_2_7	1.98
-Canada	Evo_Indicator_2_7	-5.26
-Switzerland	Evo_Indicator_2_7	-1.83
-Chile	Evo_Indicator_2_7	2.94
-Czech Republic	Evo_Indicator_2_7	-0.7
+Belgium	Evo_Indicator_2_7	0.0198
+Canada	Evo_Indicator_2_7	-0.0526
+Switzerland	Evo_Indicator_2_7	-0.0183
+Chile	Evo_Indicator_2_7	0.0294
+Czech Republic	Evo_Indicator_2_7	-0.007
 Germany	Evo_Indicator_2_7	NA
 Denmark	Evo_Indicator_2_7	NA
 Spain	Evo_Indicator_2_7	NA
-Estonia	Evo_Indicator_2_7	-2.13
+Estonia	Evo_Indicator_2_7	-0.0213
 Finland	Evo_Indicator_2_7	NA
-France	Evo_Indicator_2_7	-0.32
-United Kingdom	Evo_Indicator_2_7	-1.99
-Greece	Evo_Indicator_2_7	17.55
-Hungary	Evo_Indicator_2_7	15
-Ireland	Evo_Indicator_2_7	-10.78
+France	Evo_Indicator_2_7	-0.0032
+United Kingdom	Evo_Indicator_2_7	-0.0199
+Greece	Evo_Indicator_2_7	0.1755
+Hungary	Evo_Indicator_2_7	0.15
+Ireland	Evo_Indicator_2_7	-0.1078
 Iceland	Evo_Indicator_2_7	NA
-Israel	Evo_Indicator_2_7	22.53
-Italy	Evo_Indicator_2_7	-0.53
-Japan	Evo_Indicator_2_7	-0.65
-Korea	Evo_Indicator_2_7	2.55
-Lithuania	Evo_Indicator_2_7	40.24
+Israel	Evo_Indicator_2_7	0.2253
+Italy	Evo_Indicator_2_7	-0.0053
+Japan	Evo_Indicator_2_7	-0.0065
+Korea	Evo_Indicator_2_7	0.0255
+Lithuania	Evo_Indicator_2_7	0.4024
 Luxembourg	Evo_Indicator_2_7	NA
-Latvia	Evo_Indicator_2_7	-9.57
-Mexico	Evo_Indicator_2_7	13.77
+Latvia	Evo_Indicator_2_7	-0.0957
+Mexico	Evo_Indicator_2_7	0.1377
 Netherlands	Evo_Indicator_2_7	NA
-Norway	Evo_Indicator_2_7	-2.39
-New Zealand	Evo_Indicator_2_7	19.8
-Poland	Evo_Indicator_2_7	-3.68
-Portugal	Evo_Indicator_2_7	5.45
-Slovak Republic	Evo_Indicator_2_7	6.52
-Slovenia	Evo_Indicator_2_7	0.77
-Sweden	Evo_Indicator_2_7	4.94
-Turkey	Evo_Indicator_2_7	-3.57
-United States	Evo_Indicator_2_7	-7.99
+Norway	Evo_Indicator_2_7	-0.0239
+New Zealand	Evo_Indicator_2_7	0.198
+Poland	Evo_Indicator_2_7	-0.0368
+Portugal	Evo_Indicator_2_7	0.0545
+Slovak Republic	Evo_Indicator_2_7	0.0652
+Slovenia	Evo_Indicator_2_7	0.0077
+Sweden	Evo_Indicator_2_7	0.0494
+Turkey	Evo_Indicator_2_7	-0.0357
+United States	Evo_Indicator_2_7	-0.0799
 OECD	Year_Indicator_2_7	2017 or latest
 Australia	Year_Indicator_2_7	2017 or latest
 Austria	Year_Indicator_2_7	2017 or latest
@@ -1516,43 +1516,43 @@ Slovenia	Year_Indicator_2_7	2017 or latest
 Sweden	Year_Indicator_2_7	2017 or latest
 Turkey	Year_Indicator_2_7	2017 or latest
 United States	Year_Indicator_2_7	2017 or latest
-OECD	Indicator_3_1	12.9466
-Australia	Indicator_3_1	11.6884
-Austria	Indicator_3_1	15.8931
-Belgium	Indicator_3_1	19.2576
-Canada	Indicator_3_1	8.769
-Switzerland	Indicator_3_1	15.609
-Chile	Indicator_3_1	16.8946
-Czech Republic	Indicator_3_1	18.8209
-Germany	Indicator_3_1	15.8392
-Denmark	Indicator_3_1	10.4222
-Spain	Indicator_3_1	13.3802
-Estonia	Indicator_3_1	7.8479
-Finland	Indicator_3_1	10.0078
-France	Indicator_3_1	20.3476
-United Kingdom	Indicator_3_1	10.535
-Greece	Indicator_3_1	12.5428
-Hungary	Indicator_3_1	21.3971
-Ireland	Indicator_3_1	12.6696
-Iceland	Indicator_3_1	4.9224
-Israel	Indicator_3_1	11.1693
-Italy	Indicator_3_1	9.6432
-Japan	Indicator_3_1	10.0614
-Korea	Indicator_3_1	10.1094
-Lithuania	Indicator_3_1	11.5622
-Luxembourg	Indicator_3_1	20.8056
-Latvia	Indicator_3_1	8.7376
-Mexico	Indicator_3_1	10.9402
-Netherlands	Indicator_3_1	12.5245
-Norway	Indicator_3_1	8.2033
-New Zealand	Indicator_3_1	13.6416
-Poland	Indicator_3_1	13.3638
-Portugal	Indicator_3_1	14.9075
-Slovak Republic	Indicator_3_1	15.9721
-Slovenia	Indicator_3_1	13.4862
-Sweden	Indicator_3_1	12.2485
-Turkey	Indicator_3_1	9.0405
-United States	Indicator_3_1	11.4319
+OECD	Indicator_3_1	0.129466
+Australia	Indicator_3_1	0.116884
+Austria	Indicator_3_1	0.158931
+Belgium	Indicator_3_1	0.192576
+Canada	Indicator_3_1	0.08769
+Switzerland	Indicator_3_1	0.15609
+Chile	Indicator_3_1	0.168946
+Czech Republic	Indicator_3_1	0.188209
+Germany	Indicator_3_1	0.158392
+Denmark	Indicator_3_1	0.104222
+Spain	Indicator_3_1	0.133802
+Estonia	Indicator_3_1	0.078479
+Finland	Indicator_3_1	0.100078
+France	Indicator_3_1	0.203476
+United Kingdom	Indicator_3_1	0.10535
+Greece	Indicator_3_1	0.125428
+Hungary	Indicator_3_1	0.213971
+Ireland	Indicator_3_1	0.126696
+Iceland	Indicator_3_1	0.049224
+Israel	Indicator_3_1	0.111693
+Italy	Indicator_3_1	0.096432
+Japan	Indicator_3_1	0.100614
+Korea	Indicator_3_1	0.101094
+Lithuania	Indicator_3_1	0.115622
+Luxembourg	Indicator_3_1	0.208056
+Latvia	Indicator_3_1	0.087376
+Mexico	Indicator_3_1	0.109402
+Netherlands	Indicator_3_1	0.125245
+Norway	Indicator_3_1	0.082033
+New Zealand	Indicator_3_1	0.136416
+Poland	Indicator_3_1	0.133638
+Portugal	Indicator_3_1	0.149075
+Slovak Republic	Indicator_3_1	0.159721
+Slovenia	Indicator_3_1	0.134862
+Sweden	Indicator_3_1	0.122485
+Turkey	Indicator_3_1	0.090405
+United States	Indicator_3_1	0.114319
 OECD	Year_Indicator_3_1	2015
 Australia	Year_Indicator_3_1	2015
 Austria	Year_Indicator_3_1	2015
@@ -1664,79 +1664,79 @@ Slovenia	Year_Indicator_3_2	Late 2000's
 Sweden	Year_Indicator_3_2	Late 2000's
 Turkey	Year_Indicator_3_2	Late 2000's
 United States	Year_Indicator_3_2	Late 2000's
-OECD	Indicator_3_3	33.7
-Australia	Indicator_3_3	39
-Austria	Indicator_3_3	20.2
-Belgium	Indicator_3_3	59.8
+OECD	Indicator_3_3	0.337
+Australia	Indicator_3_3	0.39
+Austria	Indicator_3_3	0.202
+Belgium	Indicator_3_3	0.598
 Canada	Indicator_3_3	NA
-Switzerland	Indicator_3_3	38
-Chile	Indicator_3_3	19.8
-Czech Republic	Indicator_3_3	6.8
-Germany	Indicator_3_3	37.3
-Denmark	Indicator_3_3	61.8
-Spain	Indicator_3_3	34.8
-Estonia	Indicator_3_3	28.5
-Finland	Indicator_3_3	30.5
-France	Indicator_3_3	56.7
-United Kingdom	Indicator_3_3	31.5
-Greece	Indicator_3_3	11.5
-Hungary	Indicator_3_3	16.7
-Ireland	Indicator_3_3	16.6
-Iceland	Indicator_3_3	59.7
-Israel	Indicator_3_3	56.3
-Italy	Indicator_3_3	35.5
-Japan	Indicator_3_3	22.5
-Korea	Indicator_3_3	53.4
-Lithuania	Indicator_3_3	23.1
-Luxembourg	Indicator_3_3	53.1
-Latvia	Indicator_3_3	26.4
-Mexico	Indicator_3_3	2.5
-Netherlands	Indicator_3_3	55.9
-Norway	Indicator_3_3	55.3
-New Zealand	Indicator_3_3	42.7
-Poland	Indicator_3_3	12.2
-Portugal	Indicator_3_3	36.3
-Slovak Republic	Indicator_3_3	5.4
-Slovenia	Indicator_3_3	38.7
-Sweden	Indicator_3_3	46.5
-Turkey	Indicator_3_3	0.3
+Switzerland	Indicator_3_3	0.38
+Chile	Indicator_3_3	0.198
+Czech Republic	Indicator_3_3	0.068
+Germany	Indicator_3_3	0.373
+Denmark	Indicator_3_3	0.618
+Spain	Indicator_3_3	0.348
+Estonia	Indicator_3_3	0.285
+Finland	Indicator_3_3	0.305
+France	Indicator_3_3	0.567
+United Kingdom	Indicator_3_3	0.315
+Greece	Indicator_3_3	0.115
+Hungary	Indicator_3_3	0.167
+Ireland	Indicator_3_3	0.166
+Iceland	Indicator_3_3	0.597
+Israel	Indicator_3_3	0.563
+Italy	Indicator_3_3	0.355
+Japan	Indicator_3_3	0.225
+Korea	Indicator_3_3	0.534
+Lithuania	Indicator_3_3	0.231
+Luxembourg	Indicator_3_3	0.531
+Latvia	Indicator_3_3	0.264
+Mexico	Indicator_3_3	0.025
+Netherlands	Indicator_3_3	0.559
+Norway	Indicator_3_3	0.553
+New Zealand	Indicator_3_3	0.427
+Poland	Indicator_3_3	0.122
+Portugal	Indicator_3_3	0.363
+Slovak Republic	Indicator_3_3	0.054
+Slovenia	Indicator_3_3	0.387
+Sweden	Indicator_3_3	0.465
+Turkey	Indicator_3_3	0.003
 United States	Indicator_3_3	NA
-OECD	Evo_Indicator_3_3	5.59
-Australia	Evo_Indicator_3_3	1
-Austria	Evo_Indicator_3_3	7.7
+OECD	Evo_Indicator_3_3	0.0559
+Australia	Evo_Indicator_3_3	0.01
+Austria	Evo_Indicator_3_3	0.077
 Belgium	Evo_Indicator_3_3	NA
 Canada	Evo_Indicator_3_3	NA
-Switzerland	Evo_Indicator_3_3	4.8
+Switzerland	Evo_Indicator_3_3	0.048
 Chile	Evo_Indicator_3_3	NA
 Czech Republic	Evo_Indicator_3_3	NA
-Germany	Evo_Indicator_3_3	10.5
+Germany	Evo_Indicator_3_3	0.105
 Denmark	Evo_Indicator_3_3	NA
-Spain	Evo_Indicator_3_3	8.5
-Estonia	Evo_Indicator_3_3	5.7
-Finland	Evo_Indicator_3_3	3.9
-France	Evo_Indicator_3_3	5.7
-United Kingdom	Evo_Indicator_3_3	-7.6
-Greece	Evo_Indicator_3_3	0.2
-Hungary	Evo_Indicator_3_3	7.1
+Spain	Evo_Indicator_3_3	0.085
+Estonia	Evo_Indicator_3_3	0.057
+Finland	Evo_Indicator_3_3	0.039
+France	Evo_Indicator_3_3	0.057
+United Kingdom	Evo_Indicator_3_3	-0.076
+Greece	Evo_Indicator_3_3	0.002
+Hungary	Evo_Indicator_3_3	0.071
 Ireland	Evo_Indicator_3_3	NA
-Iceland	Evo_Indicator_3_3	4.9
+Iceland	Evo_Indicator_3_3	0.049
 Israel	Evo_Indicator_3_3	NA
-Italy	Evo_Indicator_3_3	8.1
-Japan	Evo_Indicator_3_3	3.6
-Korea	Evo_Indicator_3_3	15.2
-Lithuania	Evo_Indicator_3_3	7.5
-Luxembourg	Evo_Indicator_3_3	2.1
-Latvia	Evo_Indicator_3_3	8.4
+Italy	Evo_Indicator_3_3	0.081
+Japan	Evo_Indicator_3_3	0.036
+Korea	Evo_Indicator_3_3	0.152
+Lithuania	Evo_Indicator_3_3	0.075
+Luxembourg	Evo_Indicator_3_3	0.021
+Latvia	Evo_Indicator_3_3	0.084
 Mexico	Evo_Indicator_3_3	0
 Netherlands	Evo_Indicator_3_3	NA
-Norway	Evo_Indicator_3_3	2.7
+Norway	Evo_Indicator_3_3	0.027
 New Zealand	Evo_Indicator_3_3	NA
-Poland	Evo_Indicator_3_3	8.4
-Portugal	Evo_Indicator_3_3	9.2
-Slovak Republic	Evo_Indicator_3_3	2.6
-Slovenia	Evo_Indicator_3_3	4.7
+Poland	Evo_Indicator_3_3	0.084
+Portugal	Evo_Indicator_3_3	0.092
+Slovak Republic	Evo_Indicator_3_3	0.026
+Slovenia	Evo_Indicator_3_3	0.047
 Sweden	Evo_Indicator_3_3	0
-Turkey	Evo_Indicator_3_3	0.3
+Turkey	Evo_Indicator_3_3	0.003
 United States	Evo_Indicator_3_3	NA
 OECD	Year_Indicator_3_3	2016 or latest
 Australia	Year_Indicator_3_3	2016 or latest
@@ -1775,80 +1775,80 @@ Slovenia	Year_Indicator_3_3	2016 or latest
 Sweden	Year_Indicator_3_3	2016 or latest
 Turkey	Year_Indicator_3_3	2016 or latest
 United States	Year_Indicator_3_3	2016 or latest
-OECD	Indicator_3_4	13.33732
-Australia	Indicator_3_4	10.94613
-Austria	Indicator_3_4	10.8068
-Belgium	Indicator_3_4	13.24101
-Canada	Indicator_3_4	12.15008
-Switzerland	Indicator_3_4	8.40021
-Chile	Indicator_3_4	17.97114
-Czech Republic	Indicator_3_4	10.90666
-Germany	Indicator_3_4	9.34323
-Denmark	Indicator_3_4	11.76426
-Spain	Indicator_3_4	19.8698
-Estonia	Indicator_3_4	11.75109
-Finland	Indicator_3_4	12.60504
-France	Indicator_3_4	16.5467
-United Kingdom	Indicator_3_4	12.19137
-Greece	Indicator_3_4	22.75212
-Hungary	Indicator_3_4	14.01592
-Ireland	Indicator_3_4	13.1054
-Iceland	Indicator_3_4	4.90179
-Israel	Indicator_3_4	13.56229
-Italy	Indicator_3_4	25.11275
-Japan	Indicator_3_4	9.82422
+OECD	Indicator_3_4	0.1333732
+Australia	Indicator_3_4	0.1094613
+Austria	Indicator_3_4	0.108068
+Belgium	Indicator_3_4	0.1324101
+Canada	Indicator_3_4	0.1215008
+Switzerland	Indicator_3_4	0.0840021
+Chile	Indicator_3_4	0.1797114
+Czech Republic	Indicator_3_4	0.1090666
+Germany	Indicator_3_4	0.0934323
+Denmark	Indicator_3_4	0.1176426
+Spain	Indicator_3_4	0.198698
+Estonia	Indicator_3_4	0.1175109
+Finland	Indicator_3_4	0.1260504
+France	Indicator_3_4	0.165467
+United Kingdom	Indicator_3_4	0.1219137
+Greece	Indicator_3_4	0.2275212
+Hungary	Indicator_3_4	0.1401592
+Ireland	Indicator_3_4	0.131054
+Iceland	Indicator_3_4	0.0490179
+Israel	Indicator_3_4	0.1356229
+Italy	Indicator_3_4	0.2511275
+Japan	Indicator_3_4	0.0982422
 Korea	Indicator_3_4	NA
-Lithuania	Indicator_3_4	11.22066
-Luxembourg	Indicator_3_4	7.74154
-Latvia	Indicator_3_4	13.85772
-Mexico	Indicator_3_4	21.19843
-Netherlands	Indicator_3_4	7.54931
-Norway	Indicator_3_4	8.81671
-New Zealand	Indicator_3_4	11.17324
-Poland	Indicator_3_4	13.25548
-Portugal	Indicator_3_4	12.4303
-Slovak Republic	Indicator_3_4	16.21669
-Slovenia	Indicator_3_4	10.91483
-Sweden	Indicator_3_4	8.04163
-Turkey	Indicator_3_4	27.22415
-United States	Indicator_3_4	13.28072
-OECD	Evo_Indicator_3_4	-2.527567911
-Australia	Evo_Indicator_3_4	-0.570387
-Austria	Evo_Indicator_3_4	0.541502
-Belgium	Evo_Indicator_3_4	-0.652244
-Canada	Evo_Indicator_3_4	-1.2227
-Switzerland	Evo_Indicator_3_4	-2.3029428
-Chile	Evo_Indicator_3_4	-3.783537
-Czech Republic	Evo_Indicator_3_4	-1.842209
-Germany	Evo_Indicator_3_4	-1.6557118
-Denmark	Evo_Indicator_3_4	0.781798
-Spain	Evo_Indicator_3_4	-4.443423
-Estonia	Evo_Indicator_3_4	-3.403377
-Finland	Evo_Indicator_3_4	0.848218
-France	Evo_Indicator_3_4	0.139201
-United Kingdom	Evo_Indicator_3_4	-3.310117
-Greece	Evo_Indicator_3_4	1.157251
-Hungary	Evo_Indicator_3_4	-4.515086
-Ireland	Evo_Indicator_3_4	-8.817469
-Iceland	Evo_Indicator_3_4	-4.8527942
-Israel	Evo_Indicator_3_4	-14.068183
-Italy	Evo_Indicator_3_4	1.954981
-Japan	Evo_Indicator_3_4	-1.8816812
+Lithuania	Indicator_3_4	0.1122066
+Luxembourg	Indicator_3_4	0.0774154
+Latvia	Indicator_3_4	0.1385772
+Mexico	Indicator_3_4	0.2119843
+Netherlands	Indicator_3_4	0.0754931
+Norway	Indicator_3_4	0.0881671
+New Zealand	Indicator_3_4	0.1117324
+Poland	Indicator_3_4	0.1325548
+Portugal	Indicator_3_4	0.124303
+Slovak Republic	Indicator_3_4	0.1621669
+Slovenia	Indicator_3_4	0.1091483
+Sweden	Indicator_3_4	0.0804163
+Turkey	Indicator_3_4	0.2722415
+United States	Indicator_3_4	0.1328072
+OECD	Evo_Indicator_3_4	-0.025275679
+Australia	Evo_Indicator_3_4	-0.00570387
+Austria	Evo_Indicator_3_4	0.00541502
+Belgium	Evo_Indicator_3_4	-0.00652244
+Canada	Evo_Indicator_3_4	-0.012227
+Switzerland	Evo_Indicator_3_4	-0.023029428
+Chile	Evo_Indicator_3_4	-0.03783537
+Czech Republic	Evo_Indicator_3_4	-0.01842209
+Germany	Evo_Indicator_3_4	-0.016557118
+Denmark	Evo_Indicator_3_4	0.00781798
+Spain	Evo_Indicator_3_4	-0.04443423
+Estonia	Evo_Indicator_3_4	-0.03403377
+Finland	Evo_Indicator_3_4	0.00848218
+France	Evo_Indicator_3_4	0.00139201
+United Kingdom	Evo_Indicator_3_4	-0.03310117
+Greece	Evo_Indicator_3_4	0.01157251
+Hungary	Evo_Indicator_3_4	-0.04515086
+Ireland	Evo_Indicator_3_4	-0.08817469
+Iceland	Evo_Indicator_3_4	-0.048527942
+Israel	Evo_Indicator_3_4	-0.14068183
+Italy	Evo_Indicator_3_4	0.01954981
+Japan	Evo_Indicator_3_4	-0.018816812
 Korea	Evo_Indicator_3_4	NA
-Lithuania	Evo_Indicator_3_4	-6.789991
-Luxembourg	Evo_Indicator_3_4	0.5038628
-Latvia	Evo_Indicator_3_4	-5.704852
-Mexico	Evo_Indicator_3_4	-2.821974
-Netherlands	Evo_Indicator_3_4	0.6740913
-Norway	Evo_Indicator_3_4	0.3589945
-New Zealand	Evo_Indicator_3_4	-3.08941
-Poland	Evo_Indicator_3_4	-2.220492
-Portugal	Evo_Indicator_3_4	-2.858018
-Slovak Republic	Evo_Indicator_3_4	-2.90338
-Slovenia	Evo_Indicator_3_4	0.170481
-Sweden	Evo_Indicator_3_4	-1.0140256
-Turkey	Evo_Indicator_3_4	-7.399318
-United States	Evo_Indicator_3_4	-2.572631
+Lithuania	Evo_Indicator_3_4	-0.06789991
+Luxembourg	Evo_Indicator_3_4	0.005038628
+Latvia	Evo_Indicator_3_4	-0.05704852
+Mexico	Evo_Indicator_3_4	-0.02821974
+Netherlands	Evo_Indicator_3_4	0.006740913
+Norway	Evo_Indicator_3_4	0.003589945
+New Zealand	Evo_Indicator_3_4	-0.0308941
+Poland	Evo_Indicator_3_4	-0.02220492
+Portugal	Evo_Indicator_3_4	-0.02858018
+Slovak Republic	Evo_Indicator_3_4	-0.0290338
+Slovenia	Evo_Indicator_3_4	0.00170481
+Sweden	Evo_Indicator_3_4	-0.010140256
+Turkey	Evo_Indicator_3_4	-0.07399318
+United States	Evo_Indicator_3_4	-0.02572631
 OECD	Year_Indicator_3_4	2017
 Australia	Year_Indicator_3_4	2017
 Austria	Year_Indicator_3_4	2017
@@ -2145,80 +2145,80 @@ Slovenia	Year_Indicator_4_1	2016
 Sweden	Year_Indicator_4_1	2016
 Turkey	Year_Indicator_4_1	2016
 United States	Year_Indicator_4_1	2016
-OECD	Indicator_4_2	68.274
-Australia	Indicator_4_2	91.01
-Austria	Indicator_4_2	80
-Belgium	Indicator_4_2	89.37
-Canada	Indicator_4_2	68.28
-Switzerland	Indicator_4_2	48.51
-Chile	Indicator_4_2	46.53
-Czech Republic	Indicator_4_2	60.84
-Germany	Indicator_4_2	76.15
-Denmark	Indicator_4_2	85.89
-Spain	Indicator_4_2	69.84
-Estonia	Indicator_4_2	64.23
-Finland	Indicator_4_2	66.76
-France	Indicator_4_2	74.56
-United Kingdom	Indicator_4_2	68.93
-Greece	Indicator_4_2	63.94
-Hungary	Indicator_4_2	69.67
-Ireland	Indicator_4_2	65.09
-Iceland	Indicator_4_2	79.18
-Israel	Indicator_4_2	72.34
-Italy	Indicator_4_2	72.93
-Japan	Indicator_4_2	52.66
-Korea	Indicator_4_2	77.2
-Lithuania	Indicator_4_2	50.64
-Luxembourg	Indicator_4_2	89.66
-Latvia	Indicator_4_2	54.58
-Mexico	Indicator_4_2	63.43
-Netherlands	Indicator_4_2	81.93
-Norway	Indicator_4_2	78.22
-New Zealand	Indicator_4_2	79.75
-Poland	Indicator_4_2	55.34
-Portugal	Indicator_4_2	50.92
-Slovak Republic	Indicator_4_2	59.82
-Slovenia	Indicator_4_2	52.64
-Sweden	Indicator_4_2	87.18
-Turkey	Indicator_4_2	86.22
-United States	Indicator_4_2	65.44
-OECD	Evo_Indicator_4_2	-0.052
-Australia	Evo_Indicator_4_2	-2.21
+OECD	Indicator_4_2	0.68274
+Australia	Indicator_4_2	0.9101
+Austria	Indicator_4_2	0.8
+Belgium	Indicator_4_2	0.8937
+Canada	Indicator_4_2	0.6828
+Switzerland	Indicator_4_2	0.4851
+Chile	Indicator_4_2	0.4653
+Czech Republic	Indicator_4_2	0.6084
+Germany	Indicator_4_2	0.7615
+Denmark	Indicator_4_2	0.8589
+Spain	Indicator_4_2	0.6984
+Estonia	Indicator_4_2	0.6423
+Finland	Indicator_4_2	0.6676
+France	Indicator_4_2	0.7456
+United Kingdom	Indicator_4_2	0.6893
+Greece	Indicator_4_2	0.6394
+Hungary	Indicator_4_2	0.6967
+Ireland	Indicator_4_2	0.6509
+Iceland	Indicator_4_2	0.7918
+Israel	Indicator_4_2	0.7234
+Italy	Indicator_4_2	0.7293
+Japan	Indicator_4_2	0.5266
+Korea	Indicator_4_2	0.772
+Lithuania	Indicator_4_2	0.5064
+Luxembourg	Indicator_4_2	0.8966
+Latvia	Indicator_4_2	0.5458
+Mexico	Indicator_4_2	0.6343
+Netherlands	Indicator_4_2	0.8193
+Norway	Indicator_4_2	0.7822
+New Zealand	Indicator_4_2	0.7975
+Poland	Indicator_4_2	0.5534
+Portugal	Indicator_4_2	0.5092
+Slovak Republic	Indicator_4_2	0.5982
+Slovenia	Indicator_4_2	0.5264
+Sweden	Indicator_4_2	0.8718
+Turkey	Indicator_4_2	0.8622
+United States	Indicator_4_2	0.6544
+OECD	Evo_Indicator_4_2	-0.00052
+Australia	Evo_Indicator_4_2	-0.0221
 Austria	Evo_Indicator_4_2	NA
-Belgium	Evo_Indicator_4_2	0.15
-Canada	Evo_Indicator_4_2	7.17
-Switzerland	Evo_Indicator_4_2	-0.99
+Belgium	Evo_Indicator_4_2	0.0015
+Canada	Evo_Indicator_4_2	0.0717
+Switzerland	Evo_Indicator_4_2	-0.0099
 Chile	Evo_Indicator_4_2	NA
-Czech Republic	Evo_Indicator_4_2	-1.76
+Czech Republic	Evo_Indicator_4_2	-0.0176
 Germany	Evo_Indicator_4_2	NA
-Denmark	Evo_Indicator_4_2	-1.85
-Spain	Evo_Indicator_4_2	0.9
-Estonia	Evo_Indicator_4_2	0.7
-Finland	Evo_Indicator_4_2	-2.1
-France	Evo_Indicator_4_2	-5.79
-United Kingdom	Evo_Indicator_4_2	3.16
-Greece	Evo_Indicator_4_2	1.47
-Hungary	Evo_Indicator_4_2	5.29
-Ireland	Evo_Indicator_4_2	-4.81
+Denmark	Evo_Indicator_4_2	-0.0185
+Spain	Evo_Indicator_4_2	0.009
+Estonia	Evo_Indicator_4_2	0.007
+Finland	Evo_Indicator_4_2	-0.021
+France	Evo_Indicator_4_2	-0.0579
+United Kingdom	Evo_Indicator_4_2	0.0316
+Greece	Evo_Indicator_4_2	0.0147
+Hungary	Evo_Indicator_4_2	0.0529
+Ireland	Evo_Indicator_4_2	-0.0481
 Iceland	Evo_Indicator_4_2	NA
 Israel	Evo_Indicator_4_2	NA
 Italy	Evo_Indicator_4_2	NA
-Japan	Evo_Indicator_4_2	-6.66
-Korea	Evo_Indicator_4_2	1.36
-Lithuania	Evo_Indicator_4_2	-2.29
+Japan	Evo_Indicator_4_2	-0.0666
+Korea	Evo_Indicator_4_2	0.0136
+Lithuania	Evo_Indicator_4_2	-0.0229
 Luxembourg	Evo_Indicator_4_2	NA
-Latvia	Evo_Indicator_4_2	-4.91
-Mexico	Evo_Indicator_4_2	0.29
-Netherlands	Evo_Indicator_4_2	6.95
+Latvia	Evo_Indicator_4_2	-0.0491
+Mexico	Evo_Indicator_4_2	0.0029
+Netherlands	Evo_Indicator_4_2	0.0695
 Norway	Evo_Indicator_4_2	NA
-New Zealand	Evo_Indicator_4_2	5.54
-Poland	Evo_Indicator_4_2	6.42
-Portugal	Evo_Indicator_4_2	-7.11
-Slovak Republic	Evo_Indicator_4_2	0.845
-Slovenia	Evo_Indicator_4_2	-12.96
-Sweden	Evo_Indicator_4_2	2.55
-Turkey	Evo_Indicator_4_2	-1.37
-United States	Evo_Indicator_4_2	-1.22
+New Zealand	Evo_Indicator_4_2	0.0554
+Poland	Evo_Indicator_4_2	0.0642
+Portugal	Evo_Indicator_4_2	-0.0711
+Slovak Republic	Evo_Indicator_4_2	0.00845
+Slovenia	Evo_Indicator_4_2	-0.1296
+Sweden	Evo_Indicator_4_2	0.0255
+Turkey	Evo_Indicator_4_2	-0.0137
+United States	Evo_Indicator_4_2	-0.0122
 OECD	Year_Indicator_4_2	2018
 Australia	Year_Indicator_4_2	2018
 Austria	Year_Indicator_4_2	2017
