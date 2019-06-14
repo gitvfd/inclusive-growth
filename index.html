@@ -11,7 +11,7 @@
 </head>
 
 <body id="page">
-    <div id='sectionsel'>
+   <!-- <div id='sectionsel'>
         <form>
             <label class="radio"><input type="radio" id="radio_section_1" name="radio_section" onclick="update()" checked>
                 section 1</label>
@@ -22,7 +22,14 @@
             <label class="radio"><input type="radio" id="radio_section_4" name="radio_section" onclick="update()"> section
                 4</label>
         </form>
-    </div>
+    </div>-->
+
+<div id="toolbar">
+    <div class="button active" id="radio_section_1">section 1 </div>
+    <div class="button " id="radio_section_2">section 2 </div>
+    <div class="button  " id="radio_section_3">section 3 </div>
+    <div class="button  " id="radio_section_4">section 4 </div>
+</div>
     <Br/>
     <div id="Country_sel">
         <div id="selCountry">
@@ -284,9 +291,9 @@
                 .domain(["Workers", "Entrepreneurs", "Student"])
                 .range(["#585a5c", "#585a5c"," #585a5c"]);
 
-    var selCounColor = "#2EAEB7";
+    var selCounColor = "#04629a";
 
-    var selCompCounColor ="#D89825";
+    var selCompCounColor ="#8cc841";
 
     var format = d3.format(",.1f");
     d3.tsv("data/indicators.tsv", function (error, def) {
@@ -326,6 +333,7 @@
     var mouseout = function () { return tooltip.style("visibility", "hidden"); } 
 
 
+
     d3.selectAll(".infoImg")
         .on("mouseover", function () {
             var infoID = d3.select(this).attr('id');
@@ -336,9 +344,54 @@
             })
             tooltip.html(defDim);
             tooltip.style("visibility", "visible");
-        }).on("mousemove", mousemove).on("mouseout", mouseout);
+        })
+        .on("mousemove", mousemove)
+        .on("mouseout", mouseout);
 
-        function update(){
+    function setupButtons() {
+        d3.select('#toolbar')
+            .selectAll('.button')
+            .on('click', function () {
+                // Remove active class from all buttons
+                d3.selectAll('.button').classed('active', false);
+                // Find the button just clicked
+                var button = d3.select(this);
+
+                // Set it as the active button
+                button.classed('active', true);
+
+                // Get the id of the button
+                var buttonId = button.attr('id');
+
+                if (buttonId == 'radio_section_1') {
+                    document.getElementById('section1').style.display = 'block';
+                } else {
+                    document.getElementById('section1').style.display = 'none';
+                }
+
+                if (buttonId == 'radio_section_2') {
+                    document.getElementById('section2').style.display = 'block';
+                } else {
+                    document.getElementById('section2').style.display = 'none';
+                }
+                if (buttonId == 'radio_section_3') {
+                    document.getElementById('section3').style.display = 'block';
+                } else {
+                    document.getElementById('section3').style.display = 'none';
+                }
+
+                if (buttonId == 'radio_section_4') {
+                    document.getElementById('section4').style.display = 'block';
+                } else {
+                    document.getElementById('section4').style.display = 'none';
+                }
+            });
+    }
+
+    setupButtons();
+
+
+       /** function update(){
             if (document.getElementById('radio_section_1').checked) {
                 console.log("1")
                     document.getElementById('section1').style.display = 'block';
@@ -370,7 +423,7 @@
                     document.getElementById('section4').style.display = 'none';
             }
 
-        }
+        }**/
 
 </script>
 
