@@ -156,21 +156,43 @@ function pearlchart(nameIndic, selectedCou,compCou,indicData){
 				    		return xPearl(parseFloat(d.value));})
 			.attr("dy",function(d){
 				if(d.Country==selectedCou)
-					return heightPearl/2+18;
+					return heightPearl/2+17;
 				else if (d.Country == compCou)
-					return heightPearl / 2 + 27;
+					return heightPearl / 2 + 28;
 				else
 					return heightPearl/2-10;
 			})
 			.style("text-anchor","middle")
 			.text(function(d){
+				var unitValue,unit;
+
+				indicator.forEach(function (k) {
+					if (d.variable == k.id) {
+						unitValue = k.unit;
+					}
+				})
+
+				var formatUnit;
+
+				if (unitValue == "%")
+					formatUnit = d3.format(".2%")
+				else
+					formatUnit = d3.format(".2f")
+
+				
+
+				if (unitValue == "%")
+					unit = "";
+				else
+					unit = unitValue
+
 
 				if (d.value ==  minValue)
 	              return   d.Country;
 				else if (d.value == maxValue)
 	              return  d.Country;
-	      else
-					return d.Country /** + " (" + format(d.value) + ""+")"*/;
+	      		else
+					return d.Country + " (" + formatUnit(d.value) + " " + unit  + ""+")";
 		  })
 
 		var dispCou = false;

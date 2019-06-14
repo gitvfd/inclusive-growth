@@ -5,7 +5,7 @@ html, body, div, h1, h2, h3, a, p, img, dl, dt, dd, ul, li {
     padding: 0; margin: 0; border: 0; outline: 0; 
 }
 body{
-    background:#dce2e7;
+    background: #ffffff/*#dce2e7*/;
 }
 
 .infoImg{
@@ -17,7 +17,31 @@ body{
   cursor: pointer;
 }
 
-#sectionsel{
+#toolbar{
+    
+   width:90%;
+	  margin-right:auto;
+	  margin-left:auto;
+}
+.button{
+  min-width: 130px;
+  padding: 10px 6px;
+  cursor: pointer;
+  text-align: center;
+  font: 14px  TheSerif, Helvetica, Arial, sans-serif;
+  font-weight:400;
+  float:left;
+  margin: 2px 5px 2px 5px;
+  color:#464646;
+  border: 1px solid #e0e0e0;
+}
+
+.button.active {
+  background: #8EA4B1;
+  color: #fff;
+}
+
+/*#sectionsel{
    width:90%;
 	  margin-right:auto;
 	  margin-left:auto;
@@ -34,7 +58,9 @@ body{
     font-family: 'Raleway', sans-serif;
     font-weight:300;
     font-size:12px;
-}
+
+}*/
+
 #section2,#section3,#section4{
   display:none;
 }
@@ -85,13 +111,14 @@ body{
 }
 
 #selCountry{
-  background-color: #2EAEB7;/** CHange background color for dropdowns**/
-
+  background-color: #04629a;/** CHange background color for dropdowns**/
+margin-left:5px;
 
 }
 
 #compCountry{
-  background-color: #D89825;/** CHange background color for dropdowns**/
+  background-color: #8cc841;/** CHange background color for dropdowns**/
+  margin-right:5px;
 
 
 }
@@ -116,7 +143,7 @@ body{
 .dropdown_text{
   margin-left:5px;
   font-family:'Raleway', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#225760;
+  color:#ffffff;
   font-size:18px;
   text-align:start;
 }
@@ -143,7 +170,7 @@ body{
 .dropdown_text_comp{
   margin-left:5px;
   font-family:'Raleway', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #225760;
+  color: #ffffff;
   font-size:18px;
   text-align:start;
 }
